@@ -1,0 +1,18 @@
+{
+    "vowel": [
+        "a",
+        "e",
+        "i",
+        "o",
+        "u"
+    ],
+    "consonant": [
+        "p",
+        "s",
+        "l",
+        "n",
+        "k",
+        "m"
+    ],
+    "syllable": "CVCV"
+}
