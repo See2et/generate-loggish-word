@@ -74,6 +74,6 @@ while (true) {
 const result = {};
 Object.keys(words).forEach(function(key){
     result[key] = words[key];
-    //console.log(key,obj[key])
 });
+//console.log(JSON.stringify(result, null, '\t'));
 fs.writeFileSync('output.json', JSON.stringify(result));

@@ -10,6 +10,7 @@ require('esbuild').build({
     bundle: true,
     outfile: 'dist/index.js',
     minify: false,
+    platform: 'node',
     sourcemap: true,
 }).then(() => {
     console.log(`${magenta}Build finished successfully.${reset} [${new Date().getTime() - startTime.getTime()}ms]`)
