@@ -1,5 +1,5 @@
 {
-    "vowel": ["a", "i", "u"],
-    "consonant": ["k", "l", "m", "n", "p", "s", "t"],
+    "vowels": ["a", "i", "u"],
+    "conses": ["k", "l", "m", "n", "p", "s", "t"],
     "syllable": ["CVCV", "CVCVCV"]
 }
