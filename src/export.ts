@@ -4,18 +4,18 @@ export function generateCvcvWords(vowels: Array<string>, conses: Array<string>) 
     const numbersOfVowels: number = vowels.length;
     const numbersOfConses: number = conses.length;
     let cvcvSyllableNumbers: Array<number> = [0, 0, 0, 0];
-    let words: Array<string>;
+    const words: string[] = [];
     let index: number = 0;
     while (true) {
-        if (cvcvSyllableNumbers[1] > numbersOfVowels) {
+        if (cvcvSyllableNumbers[1] >= numbersOfVowels) {
             cvcvSyllableNumbers[1] = cvcvSyllableNumbers[1] % numbersOfVowels;
             cvcvSyllableNumbers[2]++;
         }
-        if (cvcvSyllableNumbers[2] > numbersOfConses) {
+        if (cvcvSyllableNumbers[2] >= numbersOfConses) {
             cvcvSyllableNumbers[2] = cvcvSyllableNumbers[2] % numbersOfConses;
             cvcvSyllableNumbers[3]++;
         }
-        if (cvcvSyllableNumbers[3] > numbersOfVowels) {
+        if (cvcvSyllableNumbers[3] >= numbersOfVowels) {
             break;
         }
         words[index] = 

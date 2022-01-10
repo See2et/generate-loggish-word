@@ -35,15 +35,20 @@ while (true) {
     }
     if (c2 > cl) {
         c2 = c2 % cl;
-        c3++;
+        v3++;
     }
-    if (c3 >= cl) {
+    if (v3 >= cl) {
         break;
     }
-    const word = c[c3 % cl] + v[n % vl] + c[c2 % cl] + v[v2 % vl] + c[c1 % cl] + v[v1 % vl];
+    const word = c[n % cl] + v[v3 % vl] + c[c2 % cl] + v[v2 % vl] + c[c1 % cl] + v[v1 % vl];
     // console.log(word);
     words[i] = word;
     i++;
 }
 
 generateCvcvWords(loggish.vowels, loggish.conses);
+/*const result = {};
+Object.keys(words).forEach(function (key) {
+    result[key] = words[key];
+});
+fs.writeFileSync('output.json', JSON.stringify(result, null, '\t'));*/
