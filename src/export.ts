@@ -1,33 +1,11 @@
 import * as fs from 'fs';
 
-export function generateWords(lang: any) {
-    const numbersOfVowels: number = lang.phonemes.v.length;
-    const numbersOfConses: number = lang.phonemes.c.length;
+export function generateWords(vowels: Array<string>, conses: Array<string>) {
+    const numbersOfVowels: number = vowels.length;
+    const numbersOfConses: number = conses.length;
     let vcvSyllable: Array<number> = [0, 0, 0];
-    const words: object[] = [];
-    let mean: object;
+    const words: string[] = [];
     let index: number = 0;
-    while (true) {
-        if (vcvSyllable[1] >= numbersOfConses) {
-            vcvSyllable[1] = vcvSyllable[1] % numbersOfConses;
-            vcvSyllable[0]++;
-        }
-        if (vcvSyllable[0] >= numbersOfVowels) {
-            break;
-        }
-        mean = lang.means[index];
-        words[index] = {
-            "entry": {
-                "id": index,
-                "form": lang.vowels[vcvSyllable[0]] +
-                lang.conses[vcvSyllable[1]] +
-                lang.conses[index % numbersOfConses]
-            },
-            ...mean
-        };
-        vcvSyllable[1]++;
-        index++;
-    }
     while (true) {
         if (vcvSyllable[2] >= numbersOfVowels) {
             vcvSyllable[2] = vcvSyllable[2] % numbersOfVowels;
@@ -40,17 +18,11 @@ export function generateWords(lang: any) {
         if (vcvSyllable[0] >= numbersOfVowels) {
             break;
         }
-        mean = lang.means[index];
-        words[index] = {
-            "entry": {
-                "id": index,
-                "form": lang.conses[index % numbersOfConses] +
-                    lang.vowels[vcvSyllable[0]] +
-                    lang.conses[vcvSyllable[1]] +
-                    lang.vowels[vcvSyllable[2]]
-            },
-            ...mean
-        };
+        words[index] =
+            conses[index % numbersOfConses] +
+            vowels[vcvSyllable[0]] +
+            conses[vcvSyllable[1]] +
+            vowels[vcvSyllable[2]];
         vcvSyllable[2]++;
         index++;
     }
@@ -75,31 +47,24 @@ export function generateWords(lang: any) {
         if (vcvSyllable[0] >= numbersOfVowels) {
             break;
         }
-        words[index] = {
-            "entry": {
-                "id": index,
-                "form": lang.conses[index % numbersOfConses] +
-                    lang.vowels[vcvSyllable[0]] +
-                    lang.conses[vcvSyllable[1]] +
-                    lang.vowels[vcvSyllable[2]] +
-                    lang.conses[vcvSyllable[3]] +
-                    lang.vowels[vcvSyllable[4]]
-            }
-        };
+        words[index] =
+            conses[index % numbersOfConses] +
+            vowels[vcvSyllable[0]] +
+            conses[vcvSyllable[1]] +
+            vowels[vcvSyllable[2]] +
+            conses[vcvSyllable[3]] +
+            vowels[vcvSyllable[4]];
         vcvSyllable[4]++;
         index++;
     }
-    /*const result = {};
+    const result = {};
     Object.keys(words).forEach(function (key) {
         result[key] = words[key];
-    });*/
-    const result: object = {
-        "words": words
-    };
-    fs.writeFileSync('words.json', JSON.stringify(result, null, '\t'));
+    });
+    fs.writeFileSync('output.json', JSON.stringify(result, null, '\t'));
 }
 
-export function newGenerateWords(lang: any) {
+/*export function newGenerateWords(lang: any) {
     let index: number;
     let words: object[];
     while (true) {
@@ -134,4 +99,4 @@ export function newGenerateWords(lang: any) {
         }
         index++;
     }
-}
+}*/
