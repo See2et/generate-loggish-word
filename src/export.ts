@@ -8,7 +8,7 @@ export function generateWords(
   const numbersOfVowels: number = vowels.length;
   const numbersOfConses: number = conses.length;
   let vcvSyllable: Array<number> = [0, 1];
-  const words: object[] = [];
+  const words = { words: [] };
   let mean: object;
   let index: number = 0;
   while (true) {
@@ -20,7 +20,7 @@ export function generateWords(
       break;
     }
     mean = lang.means[index];
-    words[index] = {
+    words.words[index] = {
       entry: {
         id: index,
         form:
@@ -48,7 +48,7 @@ export function generateWords(
       break;
     }
     mean = lang.means[index];
-    words[index] = {
+    words.words[index] = {
       entry: {
         id: index,
         form:
@@ -84,7 +84,7 @@ export function generateWords(
       break;
     }
     mean = lang.means[index];
-    words[index] = {
+    words.words[index] = {
       entry: {
         id: index,
         form:
