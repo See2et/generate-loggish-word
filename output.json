@@ -1,0 +1,8377 @@
+{
+	"0": {
+		"entry": {
+			"id": 0,
+			"form": "paip",
+			"translations": [
+				{
+					"title": "名詞",
+					"forms": [
+						"test"
+					]
+				}
+			],
+			"tags": [
+				"名詞"
+			]
+		}
+	},
+	"1": {
+		"entry": {
+			"id": 1,
+			"form": "taut"
+		}
+	},
+	"2": {
+		"entry": {
+			"id": 2,
+			"form": "kiak"
+		}
+	},
+	"3": {
+		"entry": {
+			"id": 3,
+			"form": "siis"
+		}
+	},
+	"4": {
+		"entry": {
+			"id": 4,
+			"form": "mium"
+		}
+	},
+	"5": {
+		"entry": {
+			"id": 5,
+			"form": "nuan"
+		}
+	},
+	"6": {
+		"entry": {
+			"id": 6,
+			"form": "luil"
+		}
+	},
+	"7": {
+		"entry": {
+			"id": 7,
+			"form": "puup"
+		}
+	},
+	"8": {
+		"entry": {
+			"id": 8,
+			"form": "tapa"
+		}
+	},
+	"9": {
+		"entry": {
+			"id": 9,
+			"form": "kapi"
+		}
+	},
+	"10": {
+		"entry": {
+			"id": 10,
+			"form": "sapu"
+		}
+	},
+	"11": {
+		"entry": {
+			"id": 11,
+			"form": "mata"
+		}
+	},
+	"12": {
+		"entry": {
+			"id": 12,
+			"form": "nati"
+		}
+	},
+	"13": {
+		"entry": {
+			"id": 13,
+			"form": "latu"
+		}
+	},
+	"14": {
+		"entry": {
+			"id": 14,
+			"form": "paka"
+		}
+	},
+	"15": {
+		"entry": {
+			"id": 15,
+			"form": "taki"
+		}
+	},
+	"16": {
+		"entry": {
+			"id": 16,
+			"form": "kaku"
+		}
+	},
+	"17": {
+		"entry": {
+			"id": 17,
+			"form": "sasa"
+		}
+	},
+	"18": {
+		"entry": {
+			"id": 18,
+			"form": "masi"
+		}
+	},
+	"19": {
+		"entry": {
+			"id": 19,
+			"form": "nasu"
+		}
+	},
+	"20": {
+		"entry": {
+			"id": 20,
+			"form": "lama"
+		}
+	},
+	"21": {
+		"entry": {
+			"id": 21,
+			"form": "pami"
+		}
+	},
+	"22": {
+		"entry": {
+			"id": 22,
+			"form": "tamu"
+		}
+	},
+	"23": {
+		"entry": {
+			"id": 23,
+			"form": "kana"
+		}
+	},
+	"24": {
+		"entry": {
+			"id": 24,
+			"form": "sani"
+		}
+	},
+	"25": {
+		"entry": {
+			"id": 25,
+			"form": "manu"
+		}
+	},
+	"26": {
+		"entry": {
+			"id": 26,
+			"form": "nala"
+		}
+	},
+	"27": {
+		"entry": {
+			"id": 27,
+			"form": "lali"
+		}
+	},
+	"28": {
+		"entry": {
+			"id": 28,
+			"form": "palu"
+		}
+	},
+	"29": {
+		"entry": {
+			"id": 29,
+			"form": "tipa"
+		}
+	},
+	"30": {
+		"entry": {
+			"id": 30,
+			"form": "kipi"
+		}
+	},
+	"31": {
+		"entry": {
+			"id": 31,
+			"form": "sipu"
+		}
+	},
+	"32": {
+		"entry": {
+			"id": 32,
+			"form": "mita"
+		}
+	},
+	"33": {
+		"entry": {
+			"id": 33,
+			"form": "niti"
+		}
+	},
+	"34": {
+		"entry": {
+			"id": 34,
+			"form": "litu"
+		}
+	},
+	"35": {
+		"entry": {
+			"id": 35,
+			"form": "pika"
+		}
+	},
+	"36": {
+		"entry": {
+			"id": 36,
+			"form": "tiki"
+		}
+	},
+	"37": {
+		"entry": {
+			"id": 37,
+			"form": "kiku"
+		}
+	},
+	"38": {
+		"entry": {
+			"id": 38,
+			"form": "sisa"
+		}
+	},
+	"39": {
+		"entry": {
+			"id": 39,
+			"form": "misi"
+		}
+	},
+	"40": {
+		"entry": {
+			"id": 40,
+			"form": "nisu"
+		}
+	},
+	"41": {
+		"entry": {
+			"id": 41,
+			"form": "lima"
+		}
+	},
+	"42": {
+		"entry": {
+			"id": 42,
+			"form": "pimi"
+		}
+	},
+	"43": {
+		"entry": {
+			"id": 43,
+			"form": "timu"
+		}
+	},
+	"44": {
+		"entry": {
+			"id": 44,
+			"form": "kina"
+		}
+	},
+	"45": {
+		"entry": {
+			"id": 45,
+			"form": "sini"
+		}
+	},
+	"46": {
+		"entry": {
+			"id": 46,
+			"form": "minu"
+		}
+	},
+	"47": {
+		"entry": {
+			"id": 47,
+			"form": "nila"
+		}
+	},
+	"48": {
+		"entry": {
+			"id": 48,
+			"form": "lili"
+		}
+	},
+	"49": {
+		"entry": {
+			"id": 49,
+			"form": "pilu"
+		}
+	},
+	"50": {
+		"entry": {
+			"id": 50,
+			"form": "tupa"
+		}
+	},
+	"51": {
+		"entry": {
+			"id": 51,
+			"form": "kupi"
+		}
+	},
+	"52": {
+		"entry": {
+			"id": 52,
+			"form": "supu"
+		}
+	},
+	"53": {
+		"entry": {
+			"id": 53,
+			"form": "muta"
+		}
+	},
+	"54": {
+		"entry": {
+			"id": 54,
+			"form": "nuti"
+		}
+	},
+	"55": {
+		"entry": {
+			"id": 55,
+			"form": "lutu"
+		}
+	},
+	"56": {
+		"entry": {
+			"id": 56,
+			"form": "puka"
+		}
+	},
+	"57": {
+		"entry": {
+			"id": 57,
+			"form": "tuki"
+		}
+	},
+	"58": {
+		"entry": {
+			"id": 58,
+			"form": "kuku"
+		}
+	},
+	"59": {
+		"entry": {
+			"id": 59,
+			"form": "susa"
+		}
+	},
+	"60": {
+		"entry": {
+			"id": 60,
+			"form": "musi"
+		}
+	},
+	"61": {
+		"entry": {
+			"id": 61,
+			"form": "nusu"
+		}
+	},
+	"62": {
+		"entry": {
+			"id": 62,
+			"form": "luma"
+		}
+	},
+	"63": {
+		"entry": {
+			"id": 63,
+			"form": "pumi"
+		}
+	},
+	"64": {
+		"entry": {
+			"id": 64,
+			"form": "tumu"
+		}
+	},
+	"65": {
+		"entry": {
+			"id": 65,
+			"form": "kuna"
+		}
+	},
+	"66": {
+		"entry": {
+			"id": 66,
+			"form": "suni"
+		}
+	},
+	"67": {
+		"entry": {
+			"id": 67,
+			"form": "munu"
+		}
+	},
+	"68": {
+		"entry": {
+			"id": 68,
+			"form": "nula"
+		}
+	},
+	"69": {
+		"entry": {
+			"id": 69,
+			"form": "luli"
+		}
+	},
+	"70": {
+		"entry": {
+			"id": 70,
+			"form": "pulu"
+		}
+	},
+	"71": {
+		"entry": {
+			"id": 71,
+			"form": "tapapa"
+		}
+	},
+	"72": {
+		"entry": {
+			"id": 72,
+			"form": "kapapi"
+		}
+	},
+	"73": {
+		"entry": {
+			"id": 73,
+			"form": "sapapu"
+		}
+	},
+	"74": {
+		"entry": {
+			"id": 74,
+			"form": "mapata"
+		}
+	},
+	"75": {
+		"entry": {
+			"id": 75,
+			"form": "napati"
+		}
+	},
+	"76": {
+		"entry": {
+			"id": 76,
+			"form": "lapatu"
+		}
+	},
+	"77": {
+		"entry": {
+			"id": 77,
+			"form": "papaka"
+		}
+	},
+	"78": {
+		"entry": {
+			"id": 78,
+			"form": "tapaki"
+		}
+	},
+	"79": {
+		"entry": {
+			"id": 79,
+			"form": "kapaku"
+		}
+	},
+	"80": {
+		"entry": {
+			"id": 80,
+			"form": "sapasa"
+		}
+	},
+	"81": {
+		"entry": {
+			"id": 81,
+			"form": "mapasi"
+		}
+	},
+	"82": {
+		"entry": {
+			"id": 82,
+			"form": "napasu"
+		}
+	},
+	"83": {
+		"entry": {
+			"id": 83,
+			"form": "lapama"
+		}
+	},
+	"84": {
+		"entry": {
+			"id": 84,
+			"form": "papami"
+		}
+	},
+	"85": {
+		"entry": {
+			"id": 85,
+			"form": "tapamu"
+		}
+	},
+	"86": {
+		"entry": {
+			"id": 86,
+			"form": "kapana"
+		}
+	},
+	"87": {
+		"entry": {
+			"id": 87,
+			"form": "sapani"
+		}
+	},
+	"88": {
+		"entry": {
+			"id": 88,
+			"form": "mapanu"
+		}
+	},
+	"89": {
+		"entry": {
+			"id": 89,
+			"form": "napala"
+		}
+	},
+	"90": {
+		"entry": {
+			"id": 90,
+			"form": "lapali"
+		}
+	},
+	"91": {
+		"entry": {
+			"id": 91,
+			"form": "papalu"
+		}
+	},
+	"92": {
+		"entry": {
+			"id": 92,
+			"form": "tapipa"
+		}
+	},
+	"93": {
+		"entry": {
+			"id": 93,
+			"form": "kapipi"
+		}
+	},
+	"94": {
+		"entry": {
+			"id": 94,
+			"form": "sapipu"
+		}
+	},
+	"95": {
+		"entry": {
+			"id": 95,
+			"form": "mapita"
+		}
+	},
+	"96": {
+		"entry": {
+			"id": 96,
+			"form": "napiti"
+		}
+	},
+	"97": {
+		"entry": {
+			"id": 97,
+			"form": "lapitu"
+		}
+	},
+	"98": {
+		"entry": {
+			"id": 98,
+			"form": "papika"
+		}
+	},
+	"99": {
+		"entry": {
+			"id": 99,
+			"form": "tapiki"
+		}
+	},
+	"100": {
+		"entry": {
+			"id": 100,
+			"form": "kapiku"
+		}
+	},
+	"101": {
+		"entry": {
+			"id": 101,
+			"form": "sapisa"
+		}
+	},
+	"102": {
+		"entry": {
+			"id": 102,
+			"form": "mapisi"
+		}
+	},
+	"103": {
+		"entry": {
+			"id": 103,
+			"form": "napisu"
+		}
+	},
+	"104": {
+		"entry": {
+			"id": 104,
+			"form": "lapima"
+		}
+	},
+	"105": {
+		"entry": {
+			"id": 105,
+			"form": "papimi"
+		}
+	},
+	"106": {
+		"entry": {
+			"id": 106,
+			"form": "tapimu"
+		}
+	},
+	"107": {
+		"entry": {
+			"id": 107,
+			"form": "kapina"
+		}
+	},
+	"108": {
+		"entry": {
+			"id": 108,
+			"form": "sapini"
+		}
+	},
+	"109": {
+		"entry": {
+			"id": 109,
+			"form": "mapinu"
+		}
+	},
+	"110": {
+		"entry": {
+			"id": 110,
+			"form": "napila"
+		}
+	},
+	"111": {
+		"entry": {
+			"id": 111,
+			"form": "lapili"
+		}
+	},
+	"112": {
+		"entry": {
+			"id": 112,
+			"form": "papilu"
+		}
+	},
+	"113": {
+		"entry": {
+			"id": 113,
+			"form": "tapupa"
+		}
+	},
+	"114": {
+		"entry": {
+			"id": 114,
+			"form": "kapupi"
+		}
+	},
+	"115": {
+		"entry": {
+			"id": 115,
+			"form": "sapupu"
+		}
+	},
+	"116": {
+		"entry": {
+			"id": 116,
+			"form": "maputa"
+		}
+	},
+	"117": {
+		"entry": {
+			"id": 117,
+			"form": "naputi"
+		}
+	},
+	"118": {
+		"entry": {
+			"id": 118,
+			"form": "laputu"
+		}
+	},
+	"119": {
+		"entry": {
+			"id": 119,
+			"form": "papuka"
+		}
+	},
+	"120": {
+		"entry": {
+			"id": 120,
+			"form": "tapuki"
+		}
+	},
+	"121": {
+		"entry": {
+			"id": 121,
+			"form": "kapuku"
+		}
+	},
+	"122": {
+		"entry": {
+			"id": 122,
+			"form": "sapusa"
+		}
+	},
+	"123": {
+		"entry": {
+			"id": 123,
+			"form": "mapusi"
+		}
+	},
+	"124": {
+		"entry": {
+			"id": 124,
+			"form": "napusu"
+		}
+	},
+	"125": {
+		"entry": {
+			"id": 125,
+			"form": "lapuma"
+		}
+	},
+	"126": {
+		"entry": {
+			"id": 126,
+			"form": "papumi"
+		}
+	},
+	"127": {
+		"entry": {
+			"id": 127,
+			"form": "tapumu"
+		}
+	},
+	"128": {
+		"entry": {
+			"id": 128,
+			"form": "kapuna"
+		}
+	},
+	"129": {
+		"entry": {
+			"id": 129,
+			"form": "sapuni"
+		}
+	},
+	"130": {
+		"entry": {
+			"id": 130,
+			"form": "mapunu"
+		}
+	},
+	"131": {
+		"entry": {
+			"id": 131,
+			"form": "napula"
+		}
+	},
+	"132": {
+		"entry": {
+			"id": 132,
+			"form": "lapuli"
+		}
+	},
+	"133": {
+		"entry": {
+			"id": 133,
+			"form": "papulu"
+		}
+	},
+	"134": {
+		"entry": {
+			"id": 134,
+			"form": "tatapa"
+		}
+	},
+	"135": {
+		"entry": {
+			"id": 135,
+			"form": "katapi"
+		}
+	},
+	"136": {
+		"entry": {
+			"id": 136,
+			"form": "satapu"
+		}
+	},
+	"137": {
+		"entry": {
+			"id": 137,
+			"form": "matata"
+		}
+	},
+	"138": {
+		"entry": {
+			"id": 138,
+			"form": "natati"
+		}
+	},
+	"139": {
+		"entry": {
+			"id": 139,
+			"form": "latatu"
+		}
+	},
+	"140": {
+		"entry": {
+			"id": 140,
+			"form": "pataka"
+		}
+	},
+	"141": {
+		"entry": {
+			"id": 141,
+			"form": "tataki"
+		}
+	},
+	"142": {
+		"entry": {
+			"id": 142,
+			"form": "kataku"
+		}
+	},
+	"143": {
+		"entry": {
+			"id": 143,
+			"form": "satasa"
+		}
+	},
+	"144": {
+		"entry": {
+			"id": 144,
+			"form": "matasi"
+		}
+	},
+	"145": {
+		"entry": {
+			"id": 145,
+			"form": "natasu"
+		}
+	},
+	"146": {
+		"entry": {
+			"id": 146,
+			"form": "latama"
+		}
+	},
+	"147": {
+		"entry": {
+			"id": 147,
+			"form": "patami"
+		}
+	},
+	"148": {
+		"entry": {
+			"id": 148,
+			"form": "tatamu"
+		}
+	},
+	"149": {
+		"entry": {
+			"id": 149,
+			"form": "katana"
+		}
+	},
+	"150": {
+		"entry": {
+			"id": 150,
+			"form": "satani"
+		}
+	},
+	"151": {
+		"entry": {
+			"id": 151,
+			"form": "matanu"
+		}
+	},
+	"152": {
+		"entry": {
+			"id": 152,
+			"form": "natala"
+		}
+	},
+	"153": {
+		"entry": {
+			"id": 153,
+			"form": "latali"
+		}
+	},
+	"154": {
+		"entry": {
+			"id": 154,
+			"form": "patalu"
+		}
+	},
+	"155": {
+		"entry": {
+			"id": 155,
+			"form": "tatipa"
+		}
+	},
+	"156": {
+		"entry": {
+			"id": 156,
+			"form": "katipi"
+		}
+	},
+	"157": {
+		"entry": {
+			"id": 157,
+			"form": "satipu"
+		}
+	},
+	"158": {
+		"entry": {
+			"id": 158,
+			"form": "matita"
+		}
+	},
+	"159": {
+		"entry": {
+			"id": 159,
+			"form": "natiti"
+		}
+	},
+	"160": {
+		"entry": {
+			"id": 160,
+			"form": "latitu"
+		}
+	},
+	"161": {
+		"entry": {
+			"id": 161,
+			"form": "patika"
+		}
+	},
+	"162": {
+		"entry": {
+			"id": 162,
+			"form": "tatiki"
+		}
+	},
+	"163": {
+		"entry": {
+			"id": 163,
+			"form": "katiku"
+		}
+	},
+	"164": {
+		"entry": {
+			"id": 164,
+			"form": "satisa"
+		}
+	},
+	"165": {
+		"entry": {
+			"id": 165,
+			"form": "matisi"
+		}
+	},
+	"166": {
+		"entry": {
+			"id": 166,
+			"form": "natisu"
+		}
+	},
+	"167": {
+		"entry": {
+			"id": 167,
+			"form": "latima"
+		}
+	},
+	"168": {
+		"entry": {
+			"id": 168,
+			"form": "patimi"
+		}
+	},
+	"169": {
+		"entry": {
+			"id": 169,
+			"form": "tatimu"
+		}
+	},
+	"170": {
+		"entry": {
+			"id": 170,
+			"form": "katina"
+		}
+	},
+	"171": {
+		"entry": {
+			"id": 171,
+			"form": "satini"
+		}
+	},
+	"172": {
+		"entry": {
+			"id": 172,
+			"form": "matinu"
+		}
+	},
+	"173": {
+		"entry": {
+			"id": 173,
+			"form": "natila"
+		}
+	},
+	"174": {
+		"entry": {
+			"id": 174,
+			"form": "latili"
+		}
+	},
+	"175": {
+		"entry": {
+			"id": 175,
+			"form": "patilu"
+		}
+	},
+	"176": {
+		"entry": {
+			"id": 176,
+			"form": "tatupa"
+		}
+	},
+	"177": {
+		"entry": {
+			"id": 177,
+			"form": "katupi"
+		}
+	},
+	"178": {
+		"entry": {
+			"id": 178,
+			"form": "satupu"
+		}
+	},
+	"179": {
+		"entry": {
+			"id": 179,
+			"form": "matuta"
+		}
+	},
+	"180": {
+		"entry": {
+			"id": 180,
+			"form": "natuti"
+		}
+	},
+	"181": {
+		"entry": {
+			"id": 181,
+			"form": "latutu"
+		}
+	},
+	"182": {
+		"entry": {
+			"id": 182,
+			"form": "patuka"
+		}
+	},
+	"183": {
+		"entry": {
+			"id": 183,
+			"form": "tatuki"
+		}
+	},
+	"184": {
+		"entry": {
+			"id": 184,
+			"form": "katuku"
+		}
+	},
+	"185": {
+		"entry": {
+			"id": 185,
+			"form": "satusa"
+		}
+	},
+	"186": {
+		"entry": {
+			"id": 186,
+			"form": "matusi"
+		}
+	},
+	"187": {
+		"entry": {
+			"id": 187,
+			"form": "natusu"
+		}
+	},
+	"188": {
+		"entry": {
+			"id": 188,
+			"form": "latuma"
+		}
+	},
+	"189": {
+		"entry": {
+			"id": 189,
+			"form": "patumi"
+		}
+	},
+	"190": {
+		"entry": {
+			"id": 190,
+			"form": "tatumu"
+		}
+	},
+	"191": {
+		"entry": {
+			"id": 191,
+			"form": "katuna"
+		}
+	},
+	"192": {
+		"entry": {
+			"id": 192,
+			"form": "satuni"
+		}
+	},
+	"193": {
+		"entry": {
+			"id": 193,
+			"form": "matunu"
+		}
+	},
+	"194": {
+		"entry": {
+			"id": 194,
+			"form": "natula"
+		}
+	},
+	"195": {
+		"entry": {
+			"id": 195,
+			"form": "latuli"
+		}
+	},
+	"196": {
+		"entry": {
+			"id": 196,
+			"form": "patulu"
+		}
+	},
+	"197": {
+		"entry": {
+			"id": 197,
+			"form": "takapa"
+		}
+	},
+	"198": {
+		"entry": {
+			"id": 198,
+			"form": "kakapi"
+		}
+	},
+	"199": {
+		"entry": {
+			"id": 199,
+			"form": "sakapu"
+		}
+	},
+	"200": {
+		"entry": {
+			"id": 200,
+			"form": "makata"
+		}
+	},
+	"201": {
+		"entry": {
+			"id": 201,
+			"form": "nakati"
+		}
+	},
+	"202": {
+		"entry": {
+			"id": 202,
+			"form": "lakatu"
+		}
+	},
+	"203": {
+		"entry": {
+			"id": 203,
+			"form": "pakaka"
+		}
+	},
+	"204": {
+		"entry": {
+			"id": 204,
+			"form": "takaki"
+		}
+	},
+	"205": {
+		"entry": {
+			"id": 205,
+			"form": "kakaku"
+		}
+	},
+	"206": {
+		"entry": {
+			"id": 206,
+			"form": "sakasa"
+		}
+	},
+	"207": {
+		"entry": {
+			"id": 207,
+			"form": "makasi"
+		}
+	},
+	"208": {
+		"entry": {
+			"id": 208,
+			"form": "nakasu"
+		}
+	},
+	"209": {
+		"entry": {
+			"id": 209,
+			"form": "lakama"
+		}
+	},
+	"210": {
+		"entry": {
+			"id": 210,
+			"form": "pakami"
+		}
+	},
+	"211": {
+		"entry": {
+			"id": 211,
+			"form": "takamu"
+		}
+	},
+	"212": {
+		"entry": {
+			"id": 212,
+			"form": "kakana"
+		}
+	},
+	"213": {
+		"entry": {
+			"id": 213,
+			"form": "sakani"
+		}
+	},
+	"214": {
+		"entry": {
+			"id": 214,
+			"form": "makanu"
+		}
+	},
+	"215": {
+		"entry": {
+			"id": 215,
+			"form": "nakala"
+		}
+	},
+	"216": {
+		"entry": {
+			"id": 216,
+			"form": "lakali"
+		}
+	},
+	"217": {
+		"entry": {
+			"id": 217,
+			"form": "pakalu"
+		}
+	},
+	"218": {
+		"entry": {
+			"id": 218,
+			"form": "takipa"
+		}
+	},
+	"219": {
+		"entry": {
+			"id": 219,
+			"form": "kakipi"
+		}
+	},
+	"220": {
+		"entry": {
+			"id": 220,
+			"form": "sakipu"
+		}
+	},
+	"221": {
+		"entry": {
+			"id": 221,
+			"form": "makita"
+		}
+	},
+	"222": {
+		"entry": {
+			"id": 222,
+			"form": "nakiti"
+		}
+	},
+	"223": {
+		"entry": {
+			"id": 223,
+			"form": "lakitu"
+		}
+	},
+	"224": {
+		"entry": {
+			"id": 224,
+			"form": "pakika"
+		}
+	},
+	"225": {
+		"entry": {
+			"id": 225,
+			"form": "takiki"
+		}
+	},
+	"226": {
+		"entry": {
+			"id": 226,
+			"form": "kakiku"
+		}
+	},
+	"227": {
+		"entry": {
+			"id": 227,
+			"form": "sakisa"
+		}
+	},
+	"228": {
+		"entry": {
+			"id": 228,
+			"form": "makisi"
+		}
+	},
+	"229": {
+		"entry": {
+			"id": 229,
+			"form": "nakisu"
+		}
+	},
+	"230": {
+		"entry": {
+			"id": 230,
+			"form": "lakima"
+		}
+	},
+	"231": {
+		"entry": {
+			"id": 231,
+			"form": "pakimi"
+		}
+	},
+	"232": {
+		"entry": {
+			"id": 232,
+			"form": "takimu"
+		}
+	},
+	"233": {
+		"entry": {
+			"id": 233,
+			"form": "kakina"
+		}
+	},
+	"234": {
+		"entry": {
+			"id": 234,
+			"form": "sakini"
+		}
+	},
+	"235": {
+		"entry": {
+			"id": 235,
+			"form": "makinu"
+		}
+	},
+	"236": {
+		"entry": {
+			"id": 236,
+			"form": "nakila"
+		}
+	},
+	"237": {
+		"entry": {
+			"id": 237,
+			"form": "lakili"
+		}
+	},
+	"238": {
+		"entry": {
+			"id": 238,
+			"form": "pakilu"
+		}
+	},
+	"239": {
+		"entry": {
+			"id": 239,
+			"form": "takupa"
+		}
+	},
+	"240": {
+		"entry": {
+			"id": 240,
+			"form": "kakupi"
+		}
+	},
+	"241": {
+		"entry": {
+			"id": 241,
+			"form": "sakupu"
+		}
+	},
+	"242": {
+		"entry": {
+			"id": 242,
+			"form": "makuta"
+		}
+	},
+	"243": {
+		"entry": {
+			"id": 243,
+			"form": "nakuti"
+		}
+	},
+	"244": {
+		"entry": {
+			"id": 244,
+			"form": "lakutu"
+		}
+	},
+	"245": {
+		"entry": {
+			"id": 245,
+			"form": "pakuka"
+		}
+	},
+	"246": {
+		"entry": {
+			"id": 246,
+			"form": "takuki"
+		}
+	},
+	"247": {
+		"entry": {
+			"id": 247,
+			"form": "kakuku"
+		}
+	},
+	"248": {
+		"entry": {
+			"id": 248,
+			"form": "sakusa"
+		}
+	},
+	"249": {
+		"entry": {
+			"id": 249,
+			"form": "makusi"
+		}
+	},
+	"250": {
+		"entry": {
+			"id": 250,
+			"form": "nakusu"
+		}
+	},
+	"251": {
+		"entry": {
+			"id": 251,
+			"form": "lakuma"
+		}
+	},
+	"252": {
+		"entry": {
+			"id": 252,
+			"form": "pakumi"
+		}
+	},
+	"253": {
+		"entry": {
+			"id": 253,
+			"form": "takumu"
+		}
+	},
+	"254": {
+		"entry": {
+			"id": 254,
+			"form": "kakuna"
+		}
+	},
+	"255": {
+		"entry": {
+			"id": 255,
+			"form": "sakuni"
+		}
+	},
+	"256": {
+		"entry": {
+			"id": 256,
+			"form": "makunu"
+		}
+	},
+	"257": {
+		"entry": {
+			"id": 257,
+			"form": "nakula"
+		}
+	},
+	"258": {
+		"entry": {
+			"id": 258,
+			"form": "lakuli"
+		}
+	},
+	"259": {
+		"entry": {
+			"id": 259,
+			"form": "pakulu"
+		}
+	},
+	"260": {
+		"entry": {
+			"id": 260,
+			"form": "tasapa"
+		}
+	},
+	"261": {
+		"entry": {
+			"id": 261,
+			"form": "kasapi"
+		}
+	},
+	"262": {
+		"entry": {
+			"id": 262,
+			"form": "sasapu"
+		}
+	},
+	"263": {
+		"entry": {
+			"id": 263,
+			"form": "masata"
+		}
+	},
+	"264": {
+		"entry": {
+			"id": 264,
+			"form": "nasati"
+		}
+	},
+	"265": {
+		"entry": {
+			"id": 265,
+			"form": "lasatu"
+		}
+	},
+	"266": {
+		"entry": {
+			"id": 266,
+			"form": "pasaka"
+		}
+	},
+	"267": {
+		"entry": {
+			"id": 267,
+			"form": "tasaki"
+		}
+	},
+	"268": {
+		"entry": {
+			"id": 268,
+			"form": "kasaku"
+		}
+	},
+	"269": {
+		"entry": {
+			"id": 269,
+			"form": "sasasa"
+		}
+	},
+	"270": {
+		"entry": {
+			"id": 270,
+			"form": "masasi"
+		}
+	},
+	"271": {
+		"entry": {
+			"id": 271,
+			"form": "nasasu"
+		}
+	},
+	"272": {
+		"entry": {
+			"id": 272,
+			"form": "lasama"
+		}
+	},
+	"273": {
+		"entry": {
+			"id": 273,
+			"form": "pasami"
+		}
+	},
+	"274": {
+		"entry": {
+			"id": 274,
+			"form": "tasamu"
+		}
+	},
+	"275": {
+		"entry": {
+			"id": 275,
+			"form": "kasana"
+		}
+	},
+	"276": {
+		"entry": {
+			"id": 276,
+			"form": "sasani"
+		}
+	},
+	"277": {
+		"entry": {
+			"id": 277,
+			"form": "masanu"
+		}
+	},
+	"278": {
+		"entry": {
+			"id": 278,
+			"form": "nasala"
+		}
+	},
+	"279": {
+		"entry": {
+			"id": 279,
+			"form": "lasali"
+		}
+	},
+	"280": {
+		"entry": {
+			"id": 280,
+			"form": "pasalu"
+		}
+	},
+	"281": {
+		"entry": {
+			"id": 281,
+			"form": "tasipa"
+		}
+	},
+	"282": {
+		"entry": {
+			"id": 282,
+			"form": "kasipi"
+		}
+	},
+	"283": {
+		"entry": {
+			"id": 283,
+			"form": "sasipu"
+		}
+	},
+	"284": {
+		"entry": {
+			"id": 284,
+			"form": "masita"
+		}
+	},
+	"285": {
+		"entry": {
+			"id": 285,
+			"form": "nasiti"
+		}
+	},
+	"286": {
+		"entry": {
+			"id": 286,
+			"form": "lasitu"
+		}
+	},
+	"287": {
+		"entry": {
+			"id": 287,
+			"form": "pasika"
+		}
+	},
+	"288": {
+		"entry": {
+			"id": 288,
+			"form": "tasiki"
+		}
+	},
+	"289": {
+		"entry": {
+			"id": 289,
+			"form": "kasiku"
+		}
+	},
+	"290": {
+		"entry": {
+			"id": 290,
+			"form": "sasisa"
+		}
+	},
+	"291": {
+		"entry": {
+			"id": 291,
+			"form": "masisi"
+		}
+	},
+	"292": {
+		"entry": {
+			"id": 292,
+			"form": "nasisu"
+		}
+	},
+	"293": {
+		"entry": {
+			"id": 293,
+			"form": "lasima"
+		}
+	},
+	"294": {
+		"entry": {
+			"id": 294,
+			"form": "pasimi"
+		}
+	},
+	"295": {
+		"entry": {
+			"id": 295,
+			"form": "tasimu"
+		}
+	},
+	"296": {
+		"entry": {
+			"id": 296,
+			"form": "kasina"
+		}
+	},
+	"297": {
+		"entry": {
+			"id": 297,
+			"form": "sasini"
+		}
+	},
+	"298": {
+		"entry": {
+			"id": 298,
+			"form": "masinu"
+		}
+	},
+	"299": {
+		"entry": {
+			"id": 299,
+			"form": "nasila"
+		}
+	},
+	"300": {
+		"entry": {
+			"id": 300,
+			"form": "lasili"
+		}
+	},
+	"301": {
+		"entry": {
+			"id": 301,
+			"form": "pasilu"
+		}
+	},
+	"302": {
+		"entry": {
+			"id": 302,
+			"form": "tasupa"
+		}
+	},
+	"303": {
+		"entry": {
+			"id": 303,
+			"form": "kasupi"
+		}
+	},
+	"304": {
+		"entry": {
+			"id": 304,
+			"form": "sasupu"
+		}
+	},
+	"305": {
+		"entry": {
+			"id": 305,
+			"form": "masuta"
+		}
+	},
+	"306": {
+		"entry": {
+			"id": 306,
+			"form": "nasuti"
+		}
+	},
+	"307": {
+		"entry": {
+			"id": 307,
+			"form": "lasutu"
+		}
+	},
+	"308": {
+		"entry": {
+			"id": 308,
+			"form": "pasuka"
+		}
+	},
+	"309": {
+		"entry": {
+			"id": 309,
+			"form": "tasuki"
+		}
+	},
+	"310": {
+		"entry": {
+			"id": 310,
+			"form": "kasuku"
+		}
+	},
+	"311": {
+		"entry": {
+			"id": 311,
+			"form": "sasusa"
+		}
+	},
+	"312": {
+		"entry": {
+			"id": 312,
+			"form": "masusi"
+		}
+	},
+	"313": {
+		"entry": {
+			"id": 313,
+			"form": "nasusu"
+		}
+	},
+	"314": {
+		"entry": {
+			"id": 314,
+			"form": "lasuma"
+		}
+	},
+	"315": {
+		"entry": {
+			"id": 315,
+			"form": "pasumi"
+		}
+	},
+	"316": {
+		"entry": {
+			"id": 316,
+			"form": "tasumu"
+		}
+	},
+	"317": {
+		"entry": {
+			"id": 317,
+			"form": "kasuna"
+		}
+	},
+	"318": {
+		"entry": {
+			"id": 318,
+			"form": "sasuni"
+		}
+	},
+	"319": {
+		"entry": {
+			"id": 319,
+			"form": "masunu"
+		}
+	},
+	"320": {
+		"entry": {
+			"id": 320,
+			"form": "nasula"
+		}
+	},
+	"321": {
+		"entry": {
+			"id": 321,
+			"form": "lasuli"
+		}
+	},
+	"322": {
+		"entry": {
+			"id": 322,
+			"form": "pasulu"
+		}
+	},
+	"323": {
+		"entry": {
+			"id": 323,
+			"form": "tamapa"
+		}
+	},
+	"324": {
+		"entry": {
+			"id": 324,
+			"form": "kamapi"
+		}
+	},
+	"325": {
+		"entry": {
+			"id": 325,
+			"form": "samapu"
+		}
+	},
+	"326": {
+		"entry": {
+			"id": 326,
+			"form": "mamata"
+		}
+	},
+	"327": {
+		"entry": {
+			"id": 327,
+			"form": "namati"
+		}
+	},
+	"328": {
+		"entry": {
+			"id": 328,
+			"form": "lamatu"
+		}
+	},
+	"329": {
+		"entry": {
+			"id": 329,
+			"form": "pamaka"
+		}
+	},
+	"330": {
+		"entry": {
+			"id": 330,
+			"form": "tamaki"
+		}
+	},
+	"331": {
+		"entry": {
+			"id": 331,
+			"form": "kamaku"
+		}
+	},
+	"332": {
+		"entry": {
+			"id": 332,
+			"form": "samasa"
+		}
+	},
+	"333": {
+		"entry": {
+			"id": 333,
+			"form": "mamasi"
+		}
+	},
+	"334": {
+		"entry": {
+			"id": 334,
+			"form": "namasu"
+		}
+	},
+	"335": {
+		"entry": {
+			"id": 335,
+			"form": "lamama"
+		}
+	},
+	"336": {
+		"entry": {
+			"id": 336,
+			"form": "pamami"
+		}
+	},
+	"337": {
+		"entry": {
+			"id": 337,
+			"form": "tamamu"
+		}
+	},
+	"338": {
+		"entry": {
+			"id": 338,
+			"form": "kamana"
+		}
+	},
+	"339": {
+		"entry": {
+			"id": 339,
+			"form": "samani"
+		}
+	},
+	"340": {
+		"entry": {
+			"id": 340,
+			"form": "mamanu"
+		}
+	},
+	"341": {
+		"entry": {
+			"id": 341,
+			"form": "namala"
+		}
+	},
+	"342": {
+		"entry": {
+			"id": 342,
+			"form": "lamali"
+		}
+	},
+	"343": {
+		"entry": {
+			"id": 343,
+			"form": "pamalu"
+		}
+	},
+	"344": {
+		"entry": {
+			"id": 344,
+			"form": "tamipa"
+		}
+	},
+	"345": {
+		"entry": {
+			"id": 345,
+			"form": "kamipi"
+		}
+	},
+	"346": {
+		"entry": {
+			"id": 346,
+			"form": "samipu"
+		}
+	},
+	"347": {
+		"entry": {
+			"id": 347,
+			"form": "mamita"
+		}
+	},
+	"348": {
+		"entry": {
+			"id": 348,
+			"form": "namiti"
+		}
+	},
+	"349": {
+		"entry": {
+			"id": 349,
+			"form": "lamitu"
+		}
+	},
+	"350": {
+		"entry": {
+			"id": 350,
+			"form": "pamika"
+		}
+	},
+	"351": {
+		"entry": {
+			"id": 351,
+			"form": "tamiki"
+		}
+	},
+	"352": {
+		"entry": {
+			"id": 352,
+			"form": "kamiku"
+		}
+	},
+	"353": {
+		"entry": {
+			"id": 353,
+			"form": "samisa"
+		}
+	},
+	"354": {
+		"entry": {
+			"id": 354,
+			"form": "mamisi"
+		}
+	},
+	"355": {
+		"entry": {
+			"id": 355,
+			"form": "namisu"
+		}
+	},
+	"356": {
+		"entry": {
+			"id": 356,
+			"form": "lamima"
+		}
+	},
+	"357": {
+		"entry": {
+			"id": 357,
+			"form": "pamimi"
+		}
+	},
+	"358": {
+		"entry": {
+			"id": 358,
+			"form": "tamimu"
+		}
+	},
+	"359": {
+		"entry": {
+			"id": 359,
+			"form": "kamina"
+		}
+	},
+	"360": {
+		"entry": {
+			"id": 360,
+			"form": "samini"
+		}
+	},
+	"361": {
+		"entry": {
+			"id": 361,
+			"form": "maminu"
+		}
+	},
+	"362": {
+		"entry": {
+			"id": 362,
+			"form": "namila"
+		}
+	},
+	"363": {
+		"entry": {
+			"id": 363,
+			"form": "lamili"
+		}
+	},
+	"364": {
+		"entry": {
+			"id": 364,
+			"form": "pamilu"
+		}
+	},
+	"365": {
+		"entry": {
+			"id": 365,
+			"form": "tamupa"
+		}
+	},
+	"366": {
+		"entry": {
+			"id": 366,
+			"form": "kamupi"
+		}
+	},
+	"367": {
+		"entry": {
+			"id": 367,
+			"form": "samupu"
+		}
+	},
+	"368": {
+		"entry": {
+			"id": 368,
+			"form": "mamuta"
+		}
+	},
+	"369": {
+		"entry": {
+			"id": 369,
+			"form": "namuti"
+		}
+	},
+	"370": {
+		"entry": {
+			"id": 370,
+			"form": "lamutu"
+		}
+	},
+	"371": {
+		"entry": {
+			"id": 371,
+			"form": "pamuka"
+		}
+	},
+	"372": {
+		"entry": {
+			"id": 372,
+			"form": "tamuki"
+		}
+	},
+	"373": {
+		"entry": {
+			"id": 373,
+			"form": "kamuku"
+		}
+	},
+	"374": {
+		"entry": {
+			"id": 374,
+			"form": "samusa"
+		}
+	},
+	"375": {
+		"entry": {
+			"id": 375,
+			"form": "mamusi"
+		}
+	},
+	"376": {
+		"entry": {
+			"id": 376,
+			"form": "namusu"
+		}
+	},
+	"377": {
+		"entry": {
+			"id": 377,
+			"form": "lamuma"
+		}
+	},
+	"378": {
+		"entry": {
+			"id": 378,
+			"form": "pamumi"
+		}
+	},
+	"379": {
+		"entry": {
+			"id": 379,
+			"form": "tamumu"
+		}
+	},
+	"380": {
+		"entry": {
+			"id": 380,
+			"form": "kamuna"
+		}
+	},
+	"381": {
+		"entry": {
+			"id": 381,
+			"form": "samuni"
+		}
+	},
+	"382": {
+		"entry": {
+			"id": 382,
+			"form": "mamunu"
+		}
+	},
+	"383": {
+		"entry": {
+			"id": 383,
+			"form": "namula"
+		}
+	},
+	"384": {
+		"entry": {
+			"id": 384,
+			"form": "lamuli"
+		}
+	},
+	"385": {
+		"entry": {
+			"id": 385,
+			"form": "pamulu"
+		}
+	},
+	"386": {
+		"entry": {
+			"id": 386,
+			"form": "tanapa"
+		}
+	},
+	"387": {
+		"entry": {
+			"id": 387,
+			"form": "kanapi"
+		}
+	},
+	"388": {
+		"entry": {
+			"id": 388,
+			"form": "sanapu"
+		}
+	},
+	"389": {
+		"entry": {
+			"id": 389,
+			"form": "manata"
+		}
+	},
+	"390": {
+		"entry": {
+			"id": 390,
+			"form": "nanati"
+		}
+	},
+	"391": {
+		"entry": {
+			"id": 391,
+			"form": "lanatu"
+		}
+	},
+	"392": {
+		"entry": {
+			"id": 392,
+			"form": "panaka"
+		}
+	},
+	"393": {
+		"entry": {
+			"id": 393,
+			"form": "tanaki"
+		}
+	},
+	"394": {
+		"entry": {
+			"id": 394,
+			"form": "kanaku"
+		}
+	},
+	"395": {
+		"entry": {
+			"id": 395,
+			"form": "sanasa"
+		}
+	},
+	"396": {
+		"entry": {
+			"id": 396,
+			"form": "manasi"
+		}
+	},
+	"397": {
+		"entry": {
+			"id": 397,
+			"form": "nanasu"
+		}
+	},
+	"398": {
+		"entry": {
+			"id": 398,
+			"form": "lanama"
+		}
+	},
+	"399": {
+		"entry": {
+			"id": 399,
+			"form": "panami"
+		}
+	},
+	"400": {
+		"entry": {
+			"id": 400,
+			"form": "tanamu"
+		}
+	},
+	"401": {
+		"entry": {
+			"id": 401,
+			"form": "kanana"
+		}
+	},
+	"402": {
+		"entry": {
+			"id": 402,
+			"form": "sanani"
+		}
+	},
+	"403": {
+		"entry": {
+			"id": 403,
+			"form": "mananu"
+		}
+	},
+	"404": {
+		"entry": {
+			"id": 404,
+			"form": "nanala"
+		}
+	},
+	"405": {
+		"entry": {
+			"id": 405,
+			"form": "lanali"
+		}
+	},
+	"406": {
+		"entry": {
+			"id": 406,
+			"form": "panalu"
+		}
+	},
+	"407": {
+		"entry": {
+			"id": 407,
+			"form": "tanipa"
+		}
+	},
+	"408": {
+		"entry": {
+			"id": 408,
+			"form": "kanipi"
+		}
+	},
+	"409": {
+		"entry": {
+			"id": 409,
+			"form": "sanipu"
+		}
+	},
+	"410": {
+		"entry": {
+			"id": 410,
+			"form": "manita"
+		}
+	},
+	"411": {
+		"entry": {
+			"id": 411,
+			"form": "naniti"
+		}
+	},
+	"412": {
+		"entry": {
+			"id": 412,
+			"form": "lanitu"
+		}
+	},
+	"413": {
+		"entry": {
+			"id": 413,
+			"form": "panika"
+		}
+	},
+	"414": {
+		"entry": {
+			"id": 414,
+			"form": "taniki"
+		}
+	},
+	"415": {
+		"entry": {
+			"id": 415,
+			"form": "kaniku"
+		}
+	},
+	"416": {
+		"entry": {
+			"id": 416,
+			"form": "sanisa"
+		}
+	},
+	"417": {
+		"entry": {
+			"id": 417,
+			"form": "manisi"
+		}
+	},
+	"418": {
+		"entry": {
+			"id": 418,
+			"form": "nanisu"
+		}
+	},
+	"419": {
+		"entry": {
+			"id": 419,
+			"form": "lanima"
+		}
+	},
+	"420": {
+		"entry": {
+			"id": 420,
+			"form": "panimi"
+		}
+	},
+	"421": {
+		"entry": {
+			"id": 421,
+			"form": "tanimu"
+		}
+	},
+	"422": {
+		"entry": {
+			"id": 422,
+			"form": "kanina"
+		}
+	},
+	"423": {
+		"entry": {
+			"id": 423,
+			"form": "sanini"
+		}
+	},
+	"424": {
+		"entry": {
+			"id": 424,
+			"form": "maninu"
+		}
+	},
+	"425": {
+		"entry": {
+			"id": 425,
+			"form": "nanila"
+		}
+	},
+	"426": {
+		"entry": {
+			"id": 426,
+			"form": "lanili"
+		}
+	},
+	"427": {
+		"entry": {
+			"id": 427,
+			"form": "panilu"
+		}
+	},
+	"428": {
+		"entry": {
+			"id": 428,
+			"form": "tanupa"
+		}
+	},
+	"429": {
+		"entry": {
+			"id": 429,
+			"form": "kanupi"
+		}
+	},
+	"430": {
+		"entry": {
+			"id": 430,
+			"form": "sanupu"
+		}
+	},
+	"431": {
+		"entry": {
+			"id": 431,
+			"form": "manuta"
+		}
+	},
+	"432": {
+		"entry": {
+			"id": 432,
+			"form": "nanuti"
+		}
+	},
+	"433": {
+		"entry": {
+			"id": 433,
+			"form": "lanutu"
+		}
+	},
+	"434": {
+		"entry": {
+			"id": 434,
+			"form": "panuka"
+		}
+	},
+	"435": {
+		"entry": {
+			"id": 435,
+			"form": "tanuki"
+		}
+	},
+	"436": {
+		"entry": {
+			"id": 436,
+			"form": "kanuku"
+		}
+	},
+	"437": {
+		"entry": {
+			"id": 437,
+			"form": "sanusa"
+		}
+	},
+	"438": {
+		"entry": {
+			"id": 438,
+			"form": "manusi"
+		}
+	},
+	"439": {
+		"entry": {
+			"id": 439,
+			"form": "nanusu"
+		}
+	},
+	"440": {
+		"entry": {
+			"id": 440,
+			"form": "lanuma"
+		}
+	},
+	"441": {
+		"entry": {
+			"id": 441,
+			"form": "panumi"
+		}
+	},
+	"442": {
+		"entry": {
+			"id": 442,
+			"form": "tanumu"
+		}
+	},
+	"443": {
+		"entry": {
+			"id": 443,
+			"form": "kanuna"
+		}
+	},
+	"444": {
+		"entry": {
+			"id": 444,
+			"form": "sanuni"
+		}
+	},
+	"445": {
+		"entry": {
+			"id": 445,
+			"form": "manunu"
+		}
+	},
+	"446": {
+		"entry": {
+			"id": 446,
+			"form": "nanula"
+		}
+	},
+	"447": {
+		"entry": {
+			"id": 447,
+			"form": "lanuli"
+		}
+	},
+	"448": {
+		"entry": {
+			"id": 448,
+			"form": "panulu"
+		}
+	},
+	"449": {
+		"entry": {
+			"id": 449,
+			"form": "talapa"
+		}
+	},
+	"450": {
+		"entry": {
+			"id": 450,
+			"form": "kalapi"
+		}
+	},
+	"451": {
+		"entry": {
+			"id": 451,
+			"form": "salapu"
+		}
+	},
+	"452": {
+		"entry": {
+			"id": 452,
+			"form": "malata"
+		}
+	},
+	"453": {
+		"entry": {
+			"id": 453,
+			"form": "nalati"
+		}
+	},
+	"454": {
+		"entry": {
+			"id": 454,
+			"form": "lalatu"
+		}
+	},
+	"455": {
+		"entry": {
+			"id": 455,
+			"form": "palaka"
+		}
+	},
+	"456": {
+		"entry": {
+			"id": 456,
+			"form": "talaki"
+		}
+	},
+	"457": {
+		"entry": {
+			"id": 457,
+			"form": "kalaku"
+		}
+	},
+	"458": {
+		"entry": {
+			"id": 458,
+			"form": "salasa"
+		}
+	},
+	"459": {
+		"entry": {
+			"id": 459,
+			"form": "malasi"
+		}
+	},
+	"460": {
+		"entry": {
+			"id": 460,
+			"form": "nalasu"
+		}
+	},
+	"461": {
+		"entry": {
+			"id": 461,
+			"form": "lalama"
+		}
+	},
+	"462": {
+		"entry": {
+			"id": 462,
+			"form": "palami"
+		}
+	},
+	"463": {
+		"entry": {
+			"id": 463,
+			"form": "talamu"
+		}
+	},
+	"464": {
+		"entry": {
+			"id": 464,
+			"form": "kalana"
+		}
+	},
+	"465": {
+		"entry": {
+			"id": 465,
+			"form": "salani"
+		}
+	},
+	"466": {
+		"entry": {
+			"id": 466,
+			"form": "malanu"
+		}
+	},
+	"467": {
+		"entry": {
+			"id": 467,
+			"form": "nalala"
+		}
+	},
+	"468": {
+		"entry": {
+			"id": 468,
+			"form": "lalali"
+		}
+	},
+	"469": {
+		"entry": {
+			"id": 469,
+			"form": "palalu"
+		}
+	},
+	"470": {
+		"entry": {
+			"id": 470,
+			"form": "talipa"
+		}
+	},
+	"471": {
+		"entry": {
+			"id": 471,
+			"form": "kalipi"
+		}
+	},
+	"472": {
+		"entry": {
+			"id": 472,
+			"form": "salipu"
+		}
+	},
+	"473": {
+		"entry": {
+			"id": 473,
+			"form": "malita"
+		}
+	},
+	"474": {
+		"entry": {
+			"id": 474,
+			"form": "naliti"
+		}
+	},
+	"475": {
+		"entry": {
+			"id": 475,
+			"form": "lalitu"
+		}
+	},
+	"476": {
+		"entry": {
+			"id": 476,
+			"form": "palika"
+		}
+	},
+	"477": {
+		"entry": {
+			"id": 477,
+			"form": "taliki"
+		}
+	},
+	"478": {
+		"entry": {
+			"id": 478,
+			"form": "kaliku"
+		}
+	},
+	"479": {
+		"entry": {
+			"id": 479,
+			"form": "salisa"
+		}
+	},
+	"480": {
+		"entry": {
+			"id": 480,
+			"form": "malisi"
+		}
+	},
+	"481": {
+		"entry": {
+			"id": 481,
+			"form": "nalisu"
+		}
+	},
+	"482": {
+		"entry": {
+			"id": 482,
+			"form": "lalima"
+		}
+	},
+	"483": {
+		"entry": {
+			"id": 483,
+			"form": "palimi"
+		}
+	},
+	"484": {
+		"entry": {
+			"id": 484,
+			"form": "talimu"
+		}
+	},
+	"485": {
+		"entry": {
+			"id": 485,
+			"form": "kalina"
+		}
+	},
+	"486": {
+		"entry": {
+			"id": 486,
+			"form": "salini"
+		}
+	},
+	"487": {
+		"entry": {
+			"id": 487,
+			"form": "malinu"
+		}
+	},
+	"488": {
+		"entry": {
+			"id": 488,
+			"form": "nalila"
+		}
+	},
+	"489": {
+		"entry": {
+			"id": 489,
+			"form": "lalili"
+		}
+	},
+	"490": {
+		"entry": {
+			"id": 490,
+			"form": "palilu"
+		}
+	},
+	"491": {
+		"entry": {
+			"id": 491,
+			"form": "talupa"
+		}
+	},
+	"492": {
+		"entry": {
+			"id": 492,
+			"form": "kalupi"
+		}
+	},
+	"493": {
+		"entry": {
+			"id": 493,
+			"form": "salupu"
+		}
+	},
+	"494": {
+		"entry": {
+			"id": 494,
+			"form": "maluta"
+		}
+	},
+	"495": {
+		"entry": {
+			"id": 495,
+			"form": "naluti"
+		}
+	},
+	"496": {
+		"entry": {
+			"id": 496,
+			"form": "lalutu"
+		}
+	},
+	"497": {
+		"entry": {
+			"id": 497,
+			"form": "paluka"
+		}
+	},
+	"498": {
+		"entry": {
+			"id": 498,
+			"form": "taluki"
+		}
+	},
+	"499": {
+		"entry": {
+			"id": 499,
+			"form": "kaluku"
+		}
+	},
+	"500": {
+		"entry": {
+			"id": 500,
+			"form": "salusa"
+		}
+	},
+	"501": {
+		"entry": {
+			"id": 501,
+			"form": "malusi"
+		}
+	},
+	"502": {
+		"entry": {
+			"id": 502,
+			"form": "nalusu"
+		}
+	},
+	"503": {
+		"entry": {
+			"id": 503,
+			"form": "laluma"
+		}
+	},
+	"504": {
+		"entry": {
+			"id": 504,
+			"form": "palumi"
+		}
+	},
+	"505": {
+		"entry": {
+			"id": 505,
+			"form": "talumu"
+		}
+	},
+	"506": {
+		"entry": {
+			"id": 506,
+			"form": "kaluna"
+		}
+	},
+	"507": {
+		"entry": {
+			"id": 507,
+			"form": "saluni"
+		}
+	},
+	"508": {
+		"entry": {
+			"id": 508,
+			"form": "malunu"
+		}
+	},
+	"509": {
+		"entry": {
+			"id": 509,
+			"form": "nalula"
+		}
+	},
+	"510": {
+		"entry": {
+			"id": 510,
+			"form": "laluli"
+		}
+	},
+	"511": {
+		"entry": {
+			"id": 511,
+			"form": "palulu"
+		}
+	},
+	"512": {
+		"entry": {
+			"id": 512,
+			"form": "tipapa"
+		}
+	},
+	"513": {
+		"entry": {
+			"id": 513,
+			"form": "kipapi"
+		}
+	},
+	"514": {
+		"entry": {
+			"id": 514,
+			"form": "sipapu"
+		}
+	},
+	"515": {
+		"entry": {
+			"id": 515,
+			"form": "mipata"
+		}
+	},
+	"516": {
+		"entry": {
+			"id": 516,
+			"form": "nipati"
+		}
+	},
+	"517": {
+		"entry": {
+			"id": 517,
+			"form": "lipatu"
+		}
+	},
+	"518": {
+		"entry": {
+			"id": 518,
+			"form": "pipaka"
+		}
+	},
+	"519": {
+		"entry": {
+			"id": 519,
+			"form": "tipaki"
+		}
+	},
+	"520": {
+		"entry": {
+			"id": 520,
+			"form": "kipaku"
+		}
+	},
+	"521": {
+		"entry": {
+			"id": 521,
+			"form": "sipasa"
+		}
+	},
+	"522": {
+		"entry": {
+			"id": 522,
+			"form": "mipasi"
+		}
+	},
+	"523": {
+		"entry": {
+			"id": 523,
+			"form": "nipasu"
+		}
+	},
+	"524": {
+		"entry": {
+			"id": 524,
+			"form": "lipama"
+		}
+	},
+	"525": {
+		"entry": {
+			"id": 525,
+			"form": "pipami"
+		}
+	},
+	"526": {
+		"entry": {
+			"id": 526,
+			"form": "tipamu"
+		}
+	},
+	"527": {
+		"entry": {
+			"id": 527,
+			"form": "kipana"
+		}
+	},
+	"528": {
+		"entry": {
+			"id": 528,
+			"form": "sipani"
+		}
+	},
+	"529": {
+		"entry": {
+			"id": 529,
+			"form": "mipanu"
+		}
+	},
+	"530": {
+		"entry": {
+			"id": 530,
+			"form": "nipala"
+		}
+	},
+	"531": {
+		"entry": {
+			"id": 531,
+			"form": "lipali"
+		}
+	},
+	"532": {
+		"entry": {
+			"id": 532,
+			"form": "pipalu"
+		}
+	},
+	"533": {
+		"entry": {
+			"id": 533,
+			"form": "tipipa"
+		}
+	},
+	"534": {
+		"entry": {
+			"id": 534,
+			"form": "kipipi"
+		}
+	},
+	"535": {
+		"entry": {
+			"id": 535,
+			"form": "sipipu"
+		}
+	},
+	"536": {
+		"entry": {
+			"id": 536,
+			"form": "mipita"
+		}
+	},
+	"537": {
+		"entry": {
+			"id": 537,
+			"form": "nipiti"
+		}
+	},
+	"538": {
+		"entry": {
+			"id": 538,
+			"form": "lipitu"
+		}
+	},
+	"539": {
+		"entry": {
+			"id": 539,
+			"form": "pipika"
+		}
+	},
+	"540": {
+		"entry": {
+			"id": 540,
+			"form": "tipiki"
+		}
+	},
+	"541": {
+		"entry": {
+			"id": 541,
+			"form": "kipiku"
+		}
+	},
+	"542": {
+		"entry": {
+			"id": 542,
+			"form": "sipisa"
+		}
+	},
+	"543": {
+		"entry": {
+			"id": 543,
+			"form": "mipisi"
+		}
+	},
+	"544": {
+		"entry": {
+			"id": 544,
+			"form": "nipisu"
+		}
+	},
+	"545": {
+		"entry": {
+			"id": 545,
+			"form": "lipima"
+		}
+	},
+	"546": {
+		"entry": {
+			"id": 546,
+			"form": "pipimi"
+		}
+	},
+	"547": {
+		"entry": {
+			"id": 547,
+			"form": "tipimu"
+		}
+	},
+	"548": {
+		"entry": {
+			"id": 548,
+			"form": "kipina"
+		}
+	},
+	"549": {
+		"entry": {
+			"id": 549,
+			"form": "sipini"
+		}
+	},
+	"550": {
+		"entry": {
+			"id": 550,
+			"form": "mipinu"
+		}
+	},
+	"551": {
+		"entry": {
+			"id": 551,
+			"form": "nipila"
+		}
+	},
+	"552": {
+		"entry": {
+			"id": 552,
+			"form": "lipili"
+		}
+	},
+	"553": {
+		"entry": {
+			"id": 553,
+			"form": "pipilu"
+		}
+	},
+	"554": {
+		"entry": {
+			"id": 554,
+			"form": "tipupa"
+		}
+	},
+	"555": {
+		"entry": {
+			"id": 555,
+			"form": "kipupi"
+		}
+	},
+	"556": {
+		"entry": {
+			"id": 556,
+			"form": "sipupu"
+		}
+	},
+	"557": {
+		"entry": {
+			"id": 557,
+			"form": "miputa"
+		}
+	},
+	"558": {
+		"entry": {
+			"id": 558,
+			"form": "niputi"
+		}
+	},
+	"559": {
+		"entry": {
+			"id": 559,
+			"form": "liputu"
+		}
+	},
+	"560": {
+		"entry": {
+			"id": 560,
+			"form": "pipuka"
+		}
+	},
+	"561": {
+		"entry": {
+			"id": 561,
+			"form": "tipuki"
+		}
+	},
+	"562": {
+		"entry": {
+			"id": 562,
+			"form": "kipuku"
+		}
+	},
+	"563": {
+		"entry": {
+			"id": 563,
+			"form": "sipusa"
+		}
+	},
+	"564": {
+		"entry": {
+			"id": 564,
+			"form": "mipusi"
+		}
+	},
+	"565": {
+		"entry": {
+			"id": 565,
+			"form": "nipusu"
+		}
+	},
+	"566": {
+		"entry": {
+			"id": 566,
+			"form": "lipuma"
+		}
+	},
+	"567": {
+		"entry": {
+			"id": 567,
+			"form": "pipumi"
+		}
+	},
+	"568": {
+		"entry": {
+			"id": 568,
+			"form": "tipumu"
+		}
+	},
+	"569": {
+		"entry": {
+			"id": 569,
+			"form": "kipuna"
+		}
+	},
+	"570": {
+		"entry": {
+			"id": 570,
+			"form": "sipuni"
+		}
+	},
+	"571": {
+		"entry": {
+			"id": 571,
+			"form": "mipunu"
+		}
+	},
+	"572": {
+		"entry": {
+			"id": 572,
+			"form": "nipula"
+		}
+	},
+	"573": {
+		"entry": {
+			"id": 573,
+			"form": "lipuli"
+		}
+	},
+	"574": {
+		"entry": {
+			"id": 574,
+			"form": "pipulu"
+		}
+	},
+	"575": {
+		"entry": {
+			"id": 575,
+			"form": "titapa"
+		}
+	},
+	"576": {
+		"entry": {
+			"id": 576,
+			"form": "kitapi"
+		}
+	},
+	"577": {
+		"entry": {
+			"id": 577,
+			"form": "sitapu"
+		}
+	},
+	"578": {
+		"entry": {
+			"id": 578,
+			"form": "mitata"
+		}
+	},
+	"579": {
+		"entry": {
+			"id": 579,
+			"form": "nitati"
+		}
+	},
+	"580": {
+		"entry": {
+			"id": 580,
+			"form": "litatu"
+		}
+	},
+	"581": {
+		"entry": {
+			"id": 581,
+			"form": "pitaka"
+		}
+	},
+	"582": {
+		"entry": {
+			"id": 582,
+			"form": "titaki"
+		}
+	},
+	"583": {
+		"entry": {
+			"id": 583,
+			"form": "kitaku"
+		}
+	},
+	"584": {
+		"entry": {
+			"id": 584,
+			"form": "sitasa"
+		}
+	},
+	"585": {
+		"entry": {
+			"id": 585,
+			"form": "mitasi"
+		}
+	},
+	"586": {
+		"entry": {
+			"id": 586,
+			"form": "nitasu"
+		}
+	},
+	"587": {
+		"entry": {
+			"id": 587,
+			"form": "litama"
+		}
+	},
+	"588": {
+		"entry": {
+			"id": 588,
+			"form": "pitami"
+		}
+	},
+	"589": {
+		"entry": {
+			"id": 589,
+			"form": "titamu"
+		}
+	},
+	"590": {
+		"entry": {
+			"id": 590,
+			"form": "kitana"
+		}
+	},
+	"591": {
+		"entry": {
+			"id": 591,
+			"form": "sitani"
+		}
+	},
+	"592": {
+		"entry": {
+			"id": 592,
+			"form": "mitanu"
+		}
+	},
+	"593": {
+		"entry": {
+			"id": 593,
+			"form": "nitala"
+		}
+	},
+	"594": {
+		"entry": {
+			"id": 594,
+			"form": "litali"
+		}
+	},
+	"595": {
+		"entry": {
+			"id": 595,
+			"form": "pitalu"
+		}
+	},
+	"596": {
+		"entry": {
+			"id": 596,
+			"form": "titipa"
+		}
+	},
+	"597": {
+		"entry": {
+			"id": 597,
+			"form": "kitipi"
+		}
+	},
+	"598": {
+		"entry": {
+			"id": 598,
+			"form": "sitipu"
+		}
+	},
+	"599": {
+		"entry": {
+			"id": 599,
+			"form": "mitita"
+		}
+	},
+	"600": {
+		"entry": {
+			"id": 600,
+			"form": "nititi"
+		}
+	},
+	"601": {
+		"entry": {
+			"id": 601,
+			"form": "lititu"
+		}
+	},
+	"602": {
+		"entry": {
+			"id": 602,
+			"form": "pitika"
+		}
+	},
+	"603": {
+		"entry": {
+			"id": 603,
+			"form": "titiki"
+		}
+	},
+	"604": {
+		"entry": {
+			"id": 604,
+			"form": "kitiku"
+		}
+	},
+	"605": {
+		"entry": {
+			"id": 605,
+			"form": "sitisa"
+		}
+	},
+	"606": {
+		"entry": {
+			"id": 606,
+			"form": "mitisi"
+		}
+	},
+	"607": {
+		"entry": {
+			"id": 607,
+			"form": "nitisu"
+		}
+	},
+	"608": {
+		"entry": {
+			"id": 608,
+			"form": "litima"
+		}
+	},
+	"609": {
+		"entry": {
+			"id": 609,
+			"form": "pitimi"
+		}
+	},
+	"610": {
+		"entry": {
+			"id": 610,
+			"form": "titimu"
+		}
+	},
+	"611": {
+		"entry": {
+			"id": 611,
+			"form": "kitina"
+		}
+	},
+	"612": {
+		"entry": {
+			"id": 612,
+			"form": "sitini"
+		}
+	},
+	"613": {
+		"entry": {
+			"id": 613,
+			"form": "mitinu"
+		}
+	},
+	"614": {
+		"entry": {
+			"id": 614,
+			"form": "nitila"
+		}
+	},
+	"615": {
+		"entry": {
+			"id": 615,
+			"form": "litili"
+		}
+	},
+	"616": {
+		"entry": {
+			"id": 616,
+			"form": "pitilu"
+		}
+	},
+	"617": {
+		"entry": {
+			"id": 617,
+			"form": "titupa"
+		}
+	},
+	"618": {
+		"entry": {
+			"id": 618,
+			"form": "kitupi"
+		}
+	},
+	"619": {
+		"entry": {
+			"id": 619,
+			"form": "situpu"
+		}
+	},
+	"620": {
+		"entry": {
+			"id": 620,
+			"form": "mituta"
+		}
+	},
+	"621": {
+		"entry": {
+			"id": 621,
+			"form": "nituti"
+		}
+	},
+	"622": {
+		"entry": {
+			"id": 622,
+			"form": "litutu"
+		}
+	},
+	"623": {
+		"entry": {
+			"id": 623,
+			"form": "pituka"
+		}
+	},
+	"624": {
+		"entry": {
+			"id": 624,
+			"form": "tituki"
+		}
+	},
+	"625": {
+		"entry": {
+			"id": 625,
+			"form": "kituku"
+		}
+	},
+	"626": {
+		"entry": {
+			"id": 626,
+			"form": "situsa"
+		}
+	},
+	"627": {
+		"entry": {
+			"id": 627,
+			"form": "mitusi"
+		}
+	},
+	"628": {
+		"entry": {
+			"id": 628,
+			"form": "nitusu"
+		}
+	},
+	"629": {
+		"entry": {
+			"id": 629,
+			"form": "lituma"
+		}
+	},
+	"630": {
+		"entry": {
+			"id": 630,
+			"form": "pitumi"
+		}
+	},
+	"631": {
+		"entry": {
+			"id": 631,
+			"form": "titumu"
+		}
+	},
+	"632": {
+		"entry": {
+			"id": 632,
+			"form": "kituna"
+		}
+	},
+	"633": {
+		"entry": {
+			"id": 633,
+			"form": "situni"
+		}
+	},
+	"634": {
+		"entry": {
+			"id": 634,
+			"form": "mitunu"
+		}
+	},
+	"635": {
+		"entry": {
+			"id": 635,
+			"form": "nitula"
+		}
+	},
+	"636": {
+		"entry": {
+			"id": 636,
+			"form": "lituli"
+		}
+	},
+	"637": {
+		"entry": {
+			"id": 637,
+			"form": "pitulu"
+		}
+	},
+	"638": {
+		"entry": {
+			"id": 638,
+			"form": "tikapa"
+		}
+	},
+	"639": {
+		"entry": {
+			"id": 639,
+			"form": "kikapi"
+		}
+	},
+	"640": {
+		"entry": {
+			"id": 640,
+			"form": "sikapu"
+		}
+	},
+	"641": {
+		"entry": {
+			"id": 641,
+			"form": "mikata"
+		}
+	},
+	"642": {
+		"entry": {
+			"id": 642,
+			"form": "nikati"
+		}
+	},
+	"643": {
+		"entry": {
+			"id": 643,
+			"form": "likatu"
+		}
+	},
+	"644": {
+		"entry": {
+			"id": 644,
+			"form": "pikaka"
+		}
+	},
+	"645": {
+		"entry": {
+			"id": 645,
+			"form": "tikaki"
+		}
+	},
+	"646": {
+		"entry": {
+			"id": 646,
+			"form": "kikaku"
+		}
+	},
+	"647": {
+		"entry": {
+			"id": 647,
+			"form": "sikasa"
+		}
+	},
+	"648": {
+		"entry": {
+			"id": 648,
+			"form": "mikasi"
+		}
+	},
+	"649": {
+		"entry": {
+			"id": 649,
+			"form": "nikasu"
+		}
+	},
+	"650": {
+		"entry": {
+			"id": 650,
+			"form": "likama"
+		}
+	},
+	"651": {
+		"entry": {
+			"id": 651,
+			"form": "pikami"
+		}
+	},
+	"652": {
+		"entry": {
+			"id": 652,
+			"form": "tikamu"
+		}
+	},
+	"653": {
+		"entry": {
+			"id": 653,
+			"form": "kikana"
+		}
+	},
+	"654": {
+		"entry": {
+			"id": 654,
+			"form": "sikani"
+		}
+	},
+	"655": {
+		"entry": {
+			"id": 655,
+			"form": "mikanu"
+		}
+	},
+	"656": {
+		"entry": {
+			"id": 656,
+			"form": "nikala"
+		}
+	},
+	"657": {
+		"entry": {
+			"id": 657,
+			"form": "likali"
+		}
+	},
+	"658": {
+		"entry": {
+			"id": 658,
+			"form": "pikalu"
+		}
+	},
+	"659": {
+		"entry": {
+			"id": 659,
+			"form": "tikipa"
+		}
+	},
+	"660": {
+		"entry": {
+			"id": 660,
+			"form": "kikipi"
+		}
+	},
+	"661": {
+		"entry": {
+			"id": 661,
+			"form": "sikipu"
+		}
+	},
+	"662": {
+		"entry": {
+			"id": 662,
+			"form": "mikita"
+		}
+	},
+	"663": {
+		"entry": {
+			"id": 663,
+			"form": "nikiti"
+		}
+	},
+	"664": {
+		"entry": {
+			"id": 664,
+			"form": "likitu"
+		}
+	},
+	"665": {
+		"entry": {
+			"id": 665,
+			"form": "pikika"
+		}
+	},
+	"666": {
+		"entry": {
+			"id": 666,
+			"form": "tikiki"
+		}
+	},
+	"667": {
+		"entry": {
+			"id": 667,
+			"form": "kikiku"
+		}
+	},
+	"668": {
+		"entry": {
+			"id": 668,
+			"form": "sikisa"
+		}
+	},
+	"669": {
+		"entry": {
+			"id": 669,
+			"form": "mikisi"
+		}
+	},
+	"670": {
+		"entry": {
+			"id": 670,
+			"form": "nikisu"
+		}
+	},
+	"671": {
+		"entry": {
+			"id": 671,
+			"form": "likima"
+		}
+	},
+	"672": {
+		"entry": {
+			"id": 672,
+			"form": "pikimi"
+		}
+	},
+	"673": {
+		"entry": {
+			"id": 673,
+			"form": "tikimu"
+		}
+	},
+	"674": {
+		"entry": {
+			"id": 674,
+			"form": "kikina"
+		}
+	},
+	"675": {
+		"entry": {
+			"id": 675,
+			"form": "sikini"
+		}
+	},
+	"676": {
+		"entry": {
+			"id": 676,
+			"form": "mikinu"
+		}
+	},
+	"677": {
+		"entry": {
+			"id": 677,
+			"form": "nikila"
+		}
+	},
+	"678": {
+		"entry": {
+			"id": 678,
+			"form": "likili"
+		}
+	},
+	"679": {
+		"entry": {
+			"id": 679,
+			"form": "pikilu"
+		}
+	},
+	"680": {
+		"entry": {
+			"id": 680,
+			"form": "tikupa"
+		}
+	},
+	"681": {
+		"entry": {
+			"id": 681,
+			"form": "kikupi"
+		}
+	},
+	"682": {
+		"entry": {
+			"id": 682,
+			"form": "sikupu"
+		}
+	},
+	"683": {
+		"entry": {
+			"id": 683,
+			"form": "mikuta"
+		}
+	},
+	"684": {
+		"entry": {
+			"id": 684,
+			"form": "nikuti"
+		}
+	},
+	"685": {
+		"entry": {
+			"id": 685,
+			"form": "likutu"
+		}
+	},
+	"686": {
+		"entry": {
+			"id": 686,
+			"form": "pikuka"
+		}
+	},
+	"687": {
+		"entry": {
+			"id": 687,
+			"form": "tikuki"
+		}
+	},
+	"688": {
+		"entry": {
+			"id": 688,
+			"form": "kikuku"
+		}
+	},
+	"689": {
+		"entry": {
+			"id": 689,
+			"form": "sikusa"
+		}
+	},
+	"690": {
+		"entry": {
+			"id": 690,
+			"form": "mikusi"
+		}
+	},
+	"691": {
+		"entry": {
+			"id": 691,
+			"form": "nikusu"
+		}
+	},
+	"692": {
+		"entry": {
+			"id": 692,
+			"form": "likuma"
+		}
+	},
+	"693": {
+		"entry": {
+			"id": 693,
+			"form": "pikumi"
+		}
+	},
+	"694": {
+		"entry": {
+			"id": 694,
+			"form": "tikumu"
+		}
+	},
+	"695": {
+		"entry": {
+			"id": 695,
+			"form": "kikuna"
+		}
+	},
+	"696": {
+		"entry": {
+			"id": 696,
+			"form": "sikuni"
+		}
+	},
+	"697": {
+		"entry": {
+			"id": 697,
+			"form": "mikunu"
+		}
+	},
+	"698": {
+		"entry": {
+			"id": 698,
+			"form": "nikula"
+		}
+	},
+	"699": {
+		"entry": {
+			"id": 699,
+			"form": "likuli"
+		}
+	},
+	"700": {
+		"entry": {
+			"id": 700,
+			"form": "pikulu"
+		}
+	},
+	"701": {
+		"entry": {
+			"id": 701,
+			"form": "tisapa"
+		}
+	},
+	"702": {
+		"entry": {
+			"id": 702,
+			"form": "kisapi"
+		}
+	},
+	"703": {
+		"entry": {
+			"id": 703,
+			"form": "sisapu"
+		}
+	},
+	"704": {
+		"entry": {
+			"id": 704,
+			"form": "misata"
+		}
+	},
+	"705": {
+		"entry": {
+			"id": 705,
+			"form": "nisati"
+		}
+	},
+	"706": {
+		"entry": {
+			"id": 706,
+			"form": "lisatu"
+		}
+	},
+	"707": {
+		"entry": {
+			"id": 707,
+			"form": "pisaka"
+		}
+	},
+	"708": {
+		"entry": {
+			"id": 708,
+			"form": "tisaki"
+		}
+	},
+	"709": {
+		"entry": {
+			"id": 709,
+			"form": "kisaku"
+		}
+	},
+	"710": {
+		"entry": {
+			"id": 710,
+			"form": "sisasa"
+		}
+	},
+	"711": {
+		"entry": {
+			"id": 711,
+			"form": "misasi"
+		}
+	},
+	"712": {
+		"entry": {
+			"id": 712,
+			"form": "nisasu"
+		}
+	},
+	"713": {
+		"entry": {
+			"id": 713,
+			"form": "lisama"
+		}
+	},
+	"714": {
+		"entry": {
+			"id": 714,
+			"form": "pisami"
+		}
+	},
+	"715": {
+		"entry": {
+			"id": 715,
+			"form": "tisamu"
+		}
+	},
+	"716": {
+		"entry": {
+			"id": 716,
+			"form": "kisana"
+		}
+	},
+	"717": {
+		"entry": {
+			"id": 717,
+			"form": "sisani"
+		}
+	},
+	"718": {
+		"entry": {
+			"id": 718,
+			"form": "misanu"
+		}
+	},
+	"719": {
+		"entry": {
+			"id": 719,
+			"form": "nisala"
+		}
+	},
+	"720": {
+		"entry": {
+			"id": 720,
+			"form": "lisali"
+		}
+	},
+	"721": {
+		"entry": {
+			"id": 721,
+			"form": "pisalu"
+		}
+	},
+	"722": {
+		"entry": {
+			"id": 722,
+			"form": "tisipa"
+		}
+	},
+	"723": {
+		"entry": {
+			"id": 723,
+			"form": "kisipi"
+		}
+	},
+	"724": {
+		"entry": {
+			"id": 724,
+			"form": "sisipu"
+		}
+	},
+	"725": {
+		"entry": {
+			"id": 725,
+			"form": "misita"
+		}
+	},
+	"726": {
+		"entry": {
+			"id": 726,
+			"form": "nisiti"
+		}
+	},
+	"727": {
+		"entry": {
+			"id": 727,
+			"form": "lisitu"
+		}
+	},
+	"728": {
+		"entry": {
+			"id": 728,
+			"form": "pisika"
+		}
+	},
+	"729": {
+		"entry": {
+			"id": 729,
+			"form": "tisiki"
+		}
+	},
+	"730": {
+		"entry": {
+			"id": 730,
+			"form": "kisiku"
+		}
+	},
+	"731": {
+		"entry": {
+			"id": 731,
+			"form": "sisisa"
+		}
+	},
+	"732": {
+		"entry": {
+			"id": 732,
+			"form": "misisi"
+		}
+	},
+	"733": {
+		"entry": {
+			"id": 733,
+			"form": "nisisu"
+		}
+	},
+	"734": {
+		"entry": {
+			"id": 734,
+			"form": "lisima"
+		}
+	},
+	"735": {
+		"entry": {
+			"id": 735,
+			"form": "pisimi"
+		}
+	},
+	"736": {
+		"entry": {
+			"id": 736,
+			"form": "tisimu"
+		}
+	},
+	"737": {
+		"entry": {
+			"id": 737,
+			"form": "kisina"
+		}
+	},
+	"738": {
+		"entry": {
+			"id": 738,
+			"form": "sisini"
+		}
+	},
+	"739": {
+		"entry": {
+			"id": 739,
+			"form": "misinu"
+		}
+	},
+	"740": {
+		"entry": {
+			"id": 740,
+			"form": "nisila"
+		}
+	},
+	"741": {
+		"entry": {
+			"id": 741,
+			"form": "lisili"
+		}
+	},
+	"742": {
+		"entry": {
+			"id": 742,
+			"form": "pisilu"
+		}
+	},
+	"743": {
+		"entry": {
+			"id": 743,
+			"form": "tisupa"
+		}
+	},
+	"744": {
+		"entry": {
+			"id": 744,
+			"form": "kisupi"
+		}
+	},
+	"745": {
+		"entry": {
+			"id": 745,
+			"form": "sisupu"
+		}
+	},
+	"746": {
+		"entry": {
+			"id": 746,
+			"form": "misuta"
+		}
+	},
+	"747": {
+		"entry": {
+			"id": 747,
+			"form": "nisuti"
+		}
+	},
+	"748": {
+		"entry": {
+			"id": 748,
+			"form": "lisutu"
+		}
+	},
+	"749": {
+		"entry": {
+			"id": 749,
+			"form": "pisuka"
+		}
+	},
+	"750": {
+		"entry": {
+			"id": 750,
+			"form": "tisuki"
+		}
+	},
+	"751": {
+		"entry": {
+			"id": 751,
+			"form": "kisuku"
+		}
+	},
+	"752": {
+		"entry": {
+			"id": 752,
+			"form": "sisusa"
+		}
+	},
+	"753": {
+		"entry": {
+			"id": 753,
+			"form": "misusi"
+		}
+	},
+	"754": {
+		"entry": {
+			"id": 754,
+			"form": "nisusu"
+		}
+	},
+	"755": {
+		"entry": {
+			"id": 755,
+			"form": "lisuma"
+		}
+	},
+	"756": {
+		"entry": {
+			"id": 756,
+			"form": "pisumi"
+		}
+	},
+	"757": {
+		"entry": {
+			"id": 757,
+			"form": "tisumu"
+		}
+	},
+	"758": {
+		"entry": {
+			"id": 758,
+			"form": "kisuna"
+		}
+	},
+	"759": {
+		"entry": {
+			"id": 759,
+			"form": "sisuni"
+		}
+	},
+	"760": {
+		"entry": {
+			"id": 760,
+			"form": "misunu"
+		}
+	},
+	"761": {
+		"entry": {
+			"id": 761,
+			"form": "nisula"
+		}
+	},
+	"762": {
+		"entry": {
+			"id": 762,
+			"form": "lisuli"
+		}
+	},
+	"763": {
+		"entry": {
+			"id": 763,
+			"form": "pisulu"
+		}
+	},
+	"764": {
+		"entry": {
+			"id": 764,
+			"form": "timapa"
+		}
+	},
+	"765": {
+		"entry": {
+			"id": 765,
+			"form": "kimapi"
+		}
+	},
+	"766": {
+		"entry": {
+			"id": 766,
+			"form": "simapu"
+		}
+	},
+	"767": {
+		"entry": {
+			"id": 767,
+			"form": "mimata"
+		}
+	},
+	"768": {
+		"entry": {
+			"id": 768,
+			"form": "nimati"
+		}
+	},
+	"769": {
+		"entry": {
+			"id": 769,
+			"form": "limatu"
+		}
+	},
+	"770": {
+		"entry": {
+			"id": 770,
+			"form": "pimaka"
+		}
+	},
+	"771": {
+		"entry": {
+			"id": 771,
+			"form": "timaki"
+		}
+	},
+	"772": {
+		"entry": {
+			"id": 772,
+			"form": "kimaku"
+		}
+	},
+	"773": {
+		"entry": {
+			"id": 773,
+			"form": "simasa"
+		}
+	},
+	"774": {
+		"entry": {
+			"id": 774,
+			"form": "mimasi"
+		}
+	},
+	"775": {
+		"entry": {
+			"id": 775,
+			"form": "nimasu"
+		}
+	},
+	"776": {
+		"entry": {
+			"id": 776,
+			"form": "limama"
+		}
+	},
+	"777": {
+		"entry": {
+			"id": 777,
+			"form": "pimami"
+		}
+	},
+	"778": {
+		"entry": {
+			"id": 778,
+			"form": "timamu"
+		}
+	},
+	"779": {
+		"entry": {
+			"id": 779,
+			"form": "kimana"
+		}
+	},
+	"780": {
+		"entry": {
+			"id": 780,
+			"form": "simani"
+		}
+	},
+	"781": {
+		"entry": {
+			"id": 781,
+			"form": "mimanu"
+		}
+	},
+	"782": {
+		"entry": {
+			"id": 782,
+			"form": "nimala"
+		}
+	},
+	"783": {
+		"entry": {
+			"id": 783,
+			"form": "limali"
+		}
+	},
+	"784": {
+		"entry": {
+			"id": 784,
+			"form": "pimalu"
+		}
+	},
+	"785": {
+		"entry": {
+			"id": 785,
+			"form": "timipa"
+		}
+	},
+	"786": {
+		"entry": {
+			"id": 786,
+			"form": "kimipi"
+		}
+	},
+	"787": {
+		"entry": {
+			"id": 787,
+			"form": "simipu"
+		}
+	},
+	"788": {
+		"entry": {
+			"id": 788,
+			"form": "mimita"
+		}
+	},
+	"789": {
+		"entry": {
+			"id": 789,
+			"form": "nimiti"
+		}
+	},
+	"790": {
+		"entry": {
+			"id": 790,
+			"form": "limitu"
+		}
+	},
+	"791": {
+		"entry": {
+			"id": 791,
+			"form": "pimika"
+		}
+	},
+	"792": {
+		"entry": {
+			"id": 792,
+			"form": "timiki"
+		}
+	},
+	"793": {
+		"entry": {
+			"id": 793,
+			"form": "kimiku"
+		}
+	},
+	"794": {
+		"entry": {
+			"id": 794,
+			"form": "simisa"
+		}
+	},
+	"795": {
+		"entry": {
+			"id": 795,
+			"form": "mimisi"
+		}
+	},
+	"796": {
+		"entry": {
+			"id": 796,
+			"form": "nimisu"
+		}
+	},
+	"797": {
+		"entry": {
+			"id": 797,
+			"form": "limima"
+		}
+	},
+	"798": {
+		"entry": {
+			"id": 798,
+			"form": "pimimi"
+		}
+	},
+	"799": {
+		"entry": {
+			"id": 799,
+			"form": "timimu"
+		}
+	},
+	"800": {
+		"entry": {
+			"id": 800,
+			"form": "kimina"
+		}
+	},
+	"801": {
+		"entry": {
+			"id": 801,
+			"form": "simini"
+		}
+	},
+	"802": {
+		"entry": {
+			"id": 802,
+			"form": "miminu"
+		}
+	},
+	"803": {
+		"entry": {
+			"id": 803,
+			"form": "nimila"
+		}
+	},
+	"804": {
+		"entry": {
+			"id": 804,
+			"form": "limili"
+		}
+	},
+	"805": {
+		"entry": {
+			"id": 805,
+			"form": "pimilu"
+		}
+	},
+	"806": {
+		"entry": {
+			"id": 806,
+			"form": "timupa"
+		}
+	},
+	"807": {
+		"entry": {
+			"id": 807,
+			"form": "kimupi"
+		}
+	},
+	"808": {
+		"entry": {
+			"id": 808,
+			"form": "simupu"
+		}
+	},
+	"809": {
+		"entry": {
+			"id": 809,
+			"form": "mimuta"
+		}
+	},
+	"810": {
+		"entry": {
+			"id": 810,
+			"form": "nimuti"
+		}
+	},
+	"811": {
+		"entry": {
+			"id": 811,
+			"form": "limutu"
+		}
+	},
+	"812": {
+		"entry": {
+			"id": 812,
+			"form": "pimuka"
+		}
+	},
+	"813": {
+		"entry": {
+			"id": 813,
+			"form": "timuki"
+		}
+	},
+	"814": {
+		"entry": {
+			"id": 814,
+			"form": "kimuku"
+		}
+	},
+	"815": {
+		"entry": {
+			"id": 815,
+			"form": "simusa"
+		}
+	},
+	"816": {
+		"entry": {
+			"id": 816,
+			"form": "mimusi"
+		}
+	},
+	"817": {
+		"entry": {
+			"id": 817,
+			"form": "nimusu"
+		}
+	},
+	"818": {
+		"entry": {
+			"id": 818,
+			"form": "limuma"
+		}
+	},
+	"819": {
+		"entry": {
+			"id": 819,
+			"form": "pimumi"
+		}
+	},
+	"820": {
+		"entry": {
+			"id": 820,
+			"form": "timumu"
+		}
+	},
+	"821": {
+		"entry": {
+			"id": 821,
+			"form": "kimuna"
+		}
+	},
+	"822": {
+		"entry": {
+			"id": 822,
+			"form": "simuni"
+		}
+	},
+	"823": {
+		"entry": {
+			"id": 823,
+			"form": "mimunu"
+		}
+	},
+	"824": {
+		"entry": {
+			"id": 824,
+			"form": "nimula"
+		}
+	},
+	"825": {
+		"entry": {
+			"id": 825,
+			"form": "limuli"
+		}
+	},
+	"826": {
+		"entry": {
+			"id": 826,
+			"form": "pimulu"
+		}
+	},
+	"827": {
+		"entry": {
+			"id": 827,
+			"form": "tinapa"
+		}
+	},
+	"828": {
+		"entry": {
+			"id": 828,
+			"form": "kinapi"
+		}
+	},
+	"829": {
+		"entry": {
+			"id": 829,
+			"form": "sinapu"
+		}
+	},
+	"830": {
+		"entry": {
+			"id": 830,
+			"form": "minata"
+		}
+	},
+	"831": {
+		"entry": {
+			"id": 831,
+			"form": "ninati"
+		}
+	},
+	"832": {
+		"entry": {
+			"id": 832,
+			"form": "linatu"
+		}
+	},
+	"833": {
+		"entry": {
+			"id": 833,
+			"form": "pinaka"
+		}
+	},
+	"834": {
+		"entry": {
+			"id": 834,
+			"form": "tinaki"
+		}
+	},
+	"835": {
+		"entry": {
+			"id": 835,
+			"form": "kinaku"
+		}
+	},
+	"836": {
+		"entry": {
+			"id": 836,
+			"form": "sinasa"
+		}
+	},
+	"837": {
+		"entry": {
+			"id": 837,
+			"form": "minasi"
+		}
+	},
+	"838": {
+		"entry": {
+			"id": 838,
+			"form": "ninasu"
+		}
+	},
+	"839": {
+		"entry": {
+			"id": 839,
+			"form": "linama"
+		}
+	},
+	"840": {
+		"entry": {
+			"id": 840,
+			"form": "pinami"
+		}
+	},
+	"841": {
+		"entry": {
+			"id": 841,
+			"form": "tinamu"
+		}
+	},
+	"842": {
+		"entry": {
+			"id": 842,
+			"form": "kinana"
+		}
+	},
+	"843": {
+		"entry": {
+			"id": 843,
+			"form": "sinani"
+		}
+	},
+	"844": {
+		"entry": {
+			"id": 844,
+			"form": "minanu"
+		}
+	},
+	"845": {
+		"entry": {
+			"id": 845,
+			"form": "ninala"
+		}
+	},
+	"846": {
+		"entry": {
+			"id": 846,
+			"form": "linali"
+		}
+	},
+	"847": {
+		"entry": {
+			"id": 847,
+			"form": "pinalu"
+		}
+	},
+	"848": {
+		"entry": {
+			"id": 848,
+			"form": "tinipa"
+		}
+	},
+	"849": {
+		"entry": {
+			"id": 849,
+			"form": "kinipi"
+		}
+	},
+	"850": {
+		"entry": {
+			"id": 850,
+			"form": "sinipu"
+		}
+	},
+	"851": {
+		"entry": {
+			"id": 851,
+			"form": "minita"
+		}
+	},
+	"852": {
+		"entry": {
+			"id": 852,
+			"form": "niniti"
+		}
+	},
+	"853": {
+		"entry": {
+			"id": 853,
+			"form": "linitu"
+		}
+	},
+	"854": {
+		"entry": {
+			"id": 854,
+			"form": "pinika"
+		}
+	},
+	"855": {
+		"entry": {
+			"id": 855,
+			"form": "tiniki"
+		}
+	},
+	"856": {
+		"entry": {
+			"id": 856,
+			"form": "kiniku"
+		}
+	},
+	"857": {
+		"entry": {
+			"id": 857,
+			"form": "sinisa"
+		}
+	},
+	"858": {
+		"entry": {
+			"id": 858,
+			"form": "minisi"
+		}
+	},
+	"859": {
+		"entry": {
+			"id": 859,
+			"form": "ninisu"
+		}
+	},
+	"860": {
+		"entry": {
+			"id": 860,
+			"form": "linima"
+		}
+	},
+	"861": {
+		"entry": {
+			"id": 861,
+			"form": "pinimi"
+		}
+	},
+	"862": {
+		"entry": {
+			"id": 862,
+			"form": "tinimu"
+		}
+	},
+	"863": {
+		"entry": {
+			"id": 863,
+			"form": "kinina"
+		}
+	},
+	"864": {
+		"entry": {
+			"id": 864,
+			"form": "sinini"
+		}
+	},
+	"865": {
+		"entry": {
+			"id": 865,
+			"form": "mininu"
+		}
+	},
+	"866": {
+		"entry": {
+			"id": 866,
+			"form": "ninila"
+		}
+	},
+	"867": {
+		"entry": {
+			"id": 867,
+			"form": "linili"
+		}
+	},
+	"868": {
+		"entry": {
+			"id": 868,
+			"form": "pinilu"
+		}
+	},
+	"869": {
+		"entry": {
+			"id": 869,
+			"form": "tinupa"
+		}
+	},
+	"870": {
+		"entry": {
+			"id": 870,
+			"form": "kinupi"
+		}
+	},
+	"871": {
+		"entry": {
+			"id": 871,
+			"form": "sinupu"
+		}
+	},
+	"872": {
+		"entry": {
+			"id": 872,
+			"form": "minuta"
+		}
+	},
+	"873": {
+		"entry": {
+			"id": 873,
+			"form": "ninuti"
+		}
+	},
+	"874": {
+		"entry": {
+			"id": 874,
+			"form": "linutu"
+		}
+	},
+	"875": {
+		"entry": {
+			"id": 875,
+			"form": "pinuka"
+		}
+	},
+	"876": {
+		"entry": {
+			"id": 876,
+			"form": "tinuki"
+		}
+	},
+	"877": {
+		"entry": {
+			"id": 877,
+			"form": "kinuku"
+		}
+	},
+	"878": {
+		"entry": {
+			"id": 878,
+			"form": "sinusa"
+		}
+	},
+	"879": {
+		"entry": {
+			"id": 879,
+			"form": "minusi"
+		}
+	},
+	"880": {
+		"entry": {
+			"id": 880,
+			"form": "ninusu"
+		}
+	},
+	"881": {
+		"entry": {
+			"id": 881,
+			"form": "linuma"
+		}
+	},
+	"882": {
+		"entry": {
+			"id": 882,
+			"form": "pinumi"
+		}
+	},
+	"883": {
+		"entry": {
+			"id": 883,
+			"form": "tinumu"
+		}
+	},
+	"884": {
+		"entry": {
+			"id": 884,
+			"form": "kinuna"
+		}
+	},
+	"885": {
+		"entry": {
+			"id": 885,
+			"form": "sinuni"
+		}
+	},
+	"886": {
+		"entry": {
+			"id": 886,
+			"form": "minunu"
+		}
+	},
+	"887": {
+		"entry": {
+			"id": 887,
+			"form": "ninula"
+		}
+	},
+	"888": {
+		"entry": {
+			"id": 888,
+			"form": "linuli"
+		}
+	},
+	"889": {
+		"entry": {
+			"id": 889,
+			"form": "pinulu"
+		}
+	},
+	"890": {
+		"entry": {
+			"id": 890,
+			"form": "tilapa"
+		}
+	},
+	"891": {
+		"entry": {
+			"id": 891,
+			"form": "kilapi"
+		}
+	},
+	"892": {
+		"entry": {
+			"id": 892,
+			"form": "silapu"
+		}
+	},
+	"893": {
+		"entry": {
+			"id": 893,
+			"form": "milata"
+		}
+	},
+	"894": {
+		"entry": {
+			"id": 894,
+			"form": "nilati"
+		}
+	},
+	"895": {
+		"entry": {
+			"id": 895,
+			"form": "lilatu"
+		}
+	},
+	"896": {
+		"entry": {
+			"id": 896,
+			"form": "pilaka"
+		}
+	},
+	"897": {
+		"entry": {
+			"id": 897,
+			"form": "tilaki"
+		}
+	},
+	"898": {
+		"entry": {
+			"id": 898,
+			"form": "kilaku"
+		}
+	},
+	"899": {
+		"entry": {
+			"id": 899,
+			"form": "silasa"
+		}
+	},
+	"900": {
+		"entry": {
+			"id": 900,
+			"form": "milasi"
+		}
+	},
+	"901": {
+		"entry": {
+			"id": 901,
+			"form": "nilasu"
+		}
+	},
+	"902": {
+		"entry": {
+			"id": 902,
+			"form": "lilama"
+		}
+	},
+	"903": {
+		"entry": {
+			"id": 903,
+			"form": "pilami"
+		}
+	},
+	"904": {
+		"entry": {
+			"id": 904,
+			"form": "tilamu"
+		}
+	},
+	"905": {
+		"entry": {
+			"id": 905,
+			"form": "kilana"
+		}
+	},
+	"906": {
+		"entry": {
+			"id": 906,
+			"form": "silani"
+		}
+	},
+	"907": {
+		"entry": {
+			"id": 907,
+			"form": "milanu"
+		}
+	},
+	"908": {
+		"entry": {
+			"id": 908,
+			"form": "nilala"
+		}
+	},
+	"909": {
+		"entry": {
+			"id": 909,
+			"form": "lilali"
+		}
+	},
+	"910": {
+		"entry": {
+			"id": 910,
+			"form": "pilalu"
+		}
+	},
+	"911": {
+		"entry": {
+			"id": 911,
+			"form": "tilipa"
+		}
+	},
+	"912": {
+		"entry": {
+			"id": 912,
+			"form": "kilipi"
+		}
+	},
+	"913": {
+		"entry": {
+			"id": 913,
+			"form": "silipu"
+		}
+	},
+	"914": {
+		"entry": {
+			"id": 914,
+			"form": "milita"
+		}
+	},
+	"915": {
+		"entry": {
+			"id": 915,
+			"form": "niliti"
+		}
+	},
+	"916": {
+		"entry": {
+			"id": 916,
+			"form": "lilitu"
+		}
+	},
+	"917": {
+		"entry": {
+			"id": 917,
+			"form": "pilika"
+		}
+	},
+	"918": {
+		"entry": {
+			"id": 918,
+			"form": "tiliki"
+		}
+	},
+	"919": {
+		"entry": {
+			"id": 919,
+			"form": "kiliku"
+		}
+	},
+	"920": {
+		"entry": {
+			"id": 920,
+			"form": "silisa"
+		}
+	},
+	"921": {
+		"entry": {
+			"id": 921,
+			"form": "milisi"
+		}
+	},
+	"922": {
+		"entry": {
+			"id": 922,
+			"form": "nilisu"
+		}
+	},
+	"923": {
+		"entry": {
+			"id": 923,
+			"form": "lilima"
+		}
+	},
+	"924": {
+		"entry": {
+			"id": 924,
+			"form": "pilimi"
+		}
+	},
+	"925": {
+		"entry": {
+			"id": 925,
+			"form": "tilimu"
+		}
+	},
+	"926": {
+		"entry": {
+			"id": 926,
+			"form": "kilina"
+		}
+	},
+	"927": {
+		"entry": {
+			"id": 927,
+			"form": "silini"
+		}
+	},
+	"928": {
+		"entry": {
+			"id": 928,
+			"form": "milinu"
+		}
+	},
+	"929": {
+		"entry": {
+			"id": 929,
+			"form": "nilila"
+		}
+	},
+	"930": {
+		"entry": {
+			"id": 930,
+			"form": "lilili"
+		}
+	},
+	"931": {
+		"entry": {
+			"id": 931,
+			"form": "pililu"
+		}
+	},
+	"932": {
+		"entry": {
+			"id": 932,
+			"form": "tilupa"
+		}
+	},
+	"933": {
+		"entry": {
+			"id": 933,
+			"form": "kilupi"
+		}
+	},
+	"934": {
+		"entry": {
+			"id": 934,
+			"form": "silupu"
+		}
+	},
+	"935": {
+		"entry": {
+			"id": 935,
+			"form": "miluta"
+		}
+	},
+	"936": {
+		"entry": {
+			"id": 936,
+			"form": "niluti"
+		}
+	},
+	"937": {
+		"entry": {
+			"id": 937,
+			"form": "lilutu"
+		}
+	},
+	"938": {
+		"entry": {
+			"id": 938,
+			"form": "piluka"
+		}
+	},
+	"939": {
+		"entry": {
+			"id": 939,
+			"form": "tiluki"
+		}
+	},
+	"940": {
+		"entry": {
+			"id": 940,
+			"form": "kiluku"
+		}
+	},
+	"941": {
+		"entry": {
+			"id": 941,
+			"form": "silusa"
+		}
+	},
+	"942": {
+		"entry": {
+			"id": 942,
+			"form": "milusi"
+		}
+	},
+	"943": {
+		"entry": {
+			"id": 943,
+			"form": "nilusu"
+		}
+	},
+	"944": {
+		"entry": {
+			"id": 944,
+			"form": "liluma"
+		}
+	},
+	"945": {
+		"entry": {
+			"id": 945,
+			"form": "pilumi"
+		}
+	},
+	"946": {
+		"entry": {
+			"id": 946,
+			"form": "tilumu"
+		}
+	},
+	"947": {
+		"entry": {
+			"id": 947,
+			"form": "kiluna"
+		}
+	},
+	"948": {
+		"entry": {
+			"id": 948,
+			"form": "siluni"
+		}
+	},
+	"949": {
+		"entry": {
+			"id": 949,
+			"form": "milunu"
+		}
+	},
+	"950": {
+		"entry": {
+			"id": 950,
+			"form": "nilula"
+		}
+	},
+	"951": {
+		"entry": {
+			"id": 951,
+			"form": "liluli"
+		}
+	},
+	"952": {
+		"entry": {
+			"id": 952,
+			"form": "pilulu"
+		}
+	},
+	"953": {
+		"entry": {
+			"id": 953,
+			"form": "tupapa"
+		}
+	},
+	"954": {
+		"entry": {
+			"id": 954,
+			"form": "kupapi"
+		}
+	},
+	"955": {
+		"entry": {
+			"id": 955,
+			"form": "supapu"
+		}
+	},
+	"956": {
+		"entry": {
+			"id": 956,
+			"form": "mupata"
+		}
+	},
+	"957": {
+		"entry": {
+			"id": 957,
+			"form": "nupati"
+		}
+	},
+	"958": {
+		"entry": {
+			"id": 958,
+			"form": "lupatu"
+		}
+	},
+	"959": {
+		"entry": {
+			"id": 959,
+			"form": "pupaka"
+		}
+	},
+	"960": {
+		"entry": {
+			"id": 960,
+			"form": "tupaki"
+		}
+	},
+	"961": {
+		"entry": {
+			"id": 961,
+			"form": "kupaku"
+		}
+	},
+	"962": {
+		"entry": {
+			"id": 962,
+			"form": "supasa"
+		}
+	},
+	"963": {
+		"entry": {
+			"id": 963,
+			"form": "mupasi"
+		}
+	},
+	"964": {
+		"entry": {
+			"id": 964,
+			"form": "nupasu"
+		}
+	},
+	"965": {
+		"entry": {
+			"id": 965,
+			"form": "lupama"
+		}
+	},
+	"966": {
+		"entry": {
+			"id": 966,
+			"form": "pupami"
+		}
+	},
+	"967": {
+		"entry": {
+			"id": 967,
+			"form": "tupamu"
+		}
+	},
+	"968": {
+		"entry": {
+			"id": 968,
+			"form": "kupana"
+		}
+	},
+	"969": {
+		"entry": {
+			"id": 969,
+			"form": "supani"
+		}
+	},
+	"970": {
+		"entry": {
+			"id": 970,
+			"form": "mupanu"
+		}
+	},
+	"971": {
+		"entry": {
+			"id": 971,
+			"form": "nupala"
+		}
+	},
+	"972": {
+		"entry": {
+			"id": 972,
+			"form": "lupali"
+		}
+	},
+	"973": {
+		"entry": {
+			"id": 973,
+			"form": "pupalu"
+		}
+	},
+	"974": {
+		"entry": {
+			"id": 974,
+			"form": "tupipa"
+		}
+	},
+	"975": {
+		"entry": {
+			"id": 975,
+			"form": "kupipi"
+		}
+	},
+	"976": {
+		"entry": {
+			"id": 976,
+			"form": "supipu"
+		}
+	},
+	"977": {
+		"entry": {
+			"id": 977,
+			"form": "mupita"
+		}
+	},
+	"978": {
+		"entry": {
+			"id": 978,
+			"form": "nupiti"
+		}
+	},
+	"979": {
+		"entry": {
+			"id": 979,
+			"form": "lupitu"
+		}
+	},
+	"980": {
+		"entry": {
+			"id": 980,
+			"form": "pupika"
+		}
+	},
+	"981": {
+		"entry": {
+			"id": 981,
+			"form": "tupiki"
+		}
+	},
+	"982": {
+		"entry": {
+			"id": 982,
+			"form": "kupiku"
+		}
+	},
+	"983": {
+		"entry": {
+			"id": 983,
+			"form": "supisa"
+		}
+	},
+	"984": {
+		"entry": {
+			"id": 984,
+			"form": "mupisi"
+		}
+	},
+	"985": {
+		"entry": {
+			"id": 985,
+			"form": "nupisu"
+		}
+	},
+	"986": {
+		"entry": {
+			"id": 986,
+			"form": "lupima"
+		}
+	},
+	"987": {
+		"entry": {
+			"id": 987,
+			"form": "pupimi"
+		}
+	},
+	"988": {
+		"entry": {
+			"id": 988,
+			"form": "tupimu"
+		}
+	},
+	"989": {
+		"entry": {
+			"id": 989,
+			"form": "kupina"
+		}
+	},
+	"990": {
+		"entry": {
+			"id": 990,
+			"form": "supini"
+		}
+	},
+	"991": {
+		"entry": {
+			"id": 991,
+			"form": "mupinu"
+		}
+	},
+	"992": {
+		"entry": {
+			"id": 992,
+			"form": "nupila"
+		}
+	},
+	"993": {
+		"entry": {
+			"id": 993,
+			"form": "lupili"
+		}
+	},
+	"994": {
+		"entry": {
+			"id": 994,
+			"form": "pupilu"
+		}
+	},
+	"995": {
+		"entry": {
+			"id": 995,
+			"form": "tupupa"
+		}
+	},
+	"996": {
+		"entry": {
+			"id": 996,
+			"form": "kupupi"
+		}
+	},
+	"997": {
+		"entry": {
+			"id": 997,
+			"form": "supupu"
+		}
+	},
+	"998": {
+		"entry": {
+			"id": 998,
+			"form": "muputa"
+		}
+	},
+	"999": {
+		"entry": {
+			"id": 999,
+			"form": "nuputi"
+		}
+	},
+	"1000": {
+		"entry": {
+			"id": 1000,
+			"form": "luputu"
+		}
+	},
+	"1001": {
+		"entry": {
+			"id": 1001,
+			"form": "pupuka"
+		}
+	},
+	"1002": {
+		"entry": {
+			"id": 1002,
+			"form": "tupuki"
+		}
+	},
+	"1003": {
+		"entry": {
+			"id": 1003,
+			"form": "kupuku"
+		}
+	},
+	"1004": {
+		"entry": {
+			"id": 1004,
+			"form": "supusa"
+		}
+	},
+	"1005": {
+		"entry": {
+			"id": 1005,
+			"form": "mupusi"
+		}
+	},
+	"1006": {
+		"entry": {
+			"id": 1006,
+			"form": "nupusu"
+		}
+	},
+	"1007": {
+		"entry": {
+			"id": 1007,
+			"form": "lupuma"
+		}
+	},
+	"1008": {
+		"entry": {
+			"id": 1008,
+			"form": "pupumi"
+		}
+	},
+	"1009": {
+		"entry": {
+			"id": 1009,
+			"form": "tupumu"
+		}
+	},
+	"1010": {
+		"entry": {
+			"id": 1010,
+			"form": "kupuna"
+		}
+	},
+	"1011": {
+		"entry": {
+			"id": 1011,
+			"form": "supuni"
+		}
+	},
+	"1012": {
+		"entry": {
+			"id": 1012,
+			"form": "mupunu"
+		}
+	},
+	"1013": {
+		"entry": {
+			"id": 1013,
+			"form": "nupula"
+		}
+	},
+	"1014": {
+		"entry": {
+			"id": 1014,
+			"form": "lupuli"
+		}
+	},
+	"1015": {
+		"entry": {
+			"id": 1015,
+			"form": "pupulu"
+		}
+	},
+	"1016": {
+		"entry": {
+			"id": 1016,
+			"form": "tutapa"
+		}
+	},
+	"1017": {
+		"entry": {
+			"id": 1017,
+			"form": "kutapi"
+		}
+	},
+	"1018": {
+		"entry": {
+			"id": 1018,
+			"form": "sutapu"
+		}
+	},
+	"1019": {
+		"entry": {
+			"id": 1019,
+			"form": "mutata"
+		}
+	},
+	"1020": {
+		"entry": {
+			"id": 1020,
+			"form": "nutati"
+		}
+	},
+	"1021": {
+		"entry": {
+			"id": 1021,
+			"form": "lutatu"
+		}
+	},
+	"1022": {
+		"entry": {
+			"id": 1022,
+			"form": "putaka"
+		}
+	},
+	"1023": {
+		"entry": {
+			"id": 1023,
+			"form": "tutaki"
+		}
+	},
+	"1024": {
+		"entry": {
+			"id": 1024,
+			"form": "kutaku"
+		}
+	},
+	"1025": {
+		"entry": {
+			"id": 1025,
+			"form": "sutasa"
+		}
+	},
+	"1026": {
+		"entry": {
+			"id": 1026,
+			"form": "mutasi"
+		}
+	},
+	"1027": {
+		"entry": {
+			"id": 1027,
+			"form": "nutasu"
+		}
+	},
+	"1028": {
+		"entry": {
+			"id": 1028,
+			"form": "lutama"
+		}
+	},
+	"1029": {
+		"entry": {
+			"id": 1029,
+			"form": "putami"
+		}
+	},
+	"1030": {
+		"entry": {
+			"id": 1030,
+			"form": "tutamu"
+		}
+	},
+	"1031": {
+		"entry": {
+			"id": 1031,
+			"form": "kutana"
+		}
+	},
+	"1032": {
+		"entry": {
+			"id": 1032,
+			"form": "sutani"
+		}
+	},
+	"1033": {
+		"entry": {
+			"id": 1033,
+			"form": "mutanu"
+		}
+	},
+	"1034": {
+		"entry": {
+			"id": 1034,
+			"form": "nutala"
+		}
+	},
+	"1035": {
+		"entry": {
+			"id": 1035,
+			"form": "lutali"
+		}
+	},
+	"1036": {
+		"entry": {
+			"id": 1036,
+			"form": "putalu"
+		}
+	},
+	"1037": {
+		"entry": {
+			"id": 1037,
+			"form": "tutipa"
+		}
+	},
+	"1038": {
+		"entry": {
+			"id": 1038,
+			"form": "kutipi"
+		}
+	},
+	"1039": {
+		"entry": {
+			"id": 1039,
+			"form": "sutipu"
+		}
+	},
+	"1040": {
+		"entry": {
+			"id": 1040,
+			"form": "mutita"
+		}
+	},
+	"1041": {
+		"entry": {
+			"id": 1041,
+			"form": "nutiti"
+		}
+	},
+	"1042": {
+		"entry": {
+			"id": 1042,
+			"form": "lutitu"
+		}
+	},
+	"1043": {
+		"entry": {
+			"id": 1043,
+			"form": "putika"
+		}
+	},
+	"1044": {
+		"entry": {
+			"id": 1044,
+			"form": "tutiki"
+		}
+	},
+	"1045": {
+		"entry": {
+			"id": 1045,
+			"form": "kutiku"
+		}
+	},
+	"1046": {
+		"entry": {
+			"id": 1046,
+			"form": "sutisa"
+		}
+	},
+	"1047": {
+		"entry": {
+			"id": 1047,
+			"form": "mutisi"
+		}
+	},
+	"1048": {
+		"entry": {
+			"id": 1048,
+			"form": "nutisu"
+		}
+	},
+	"1049": {
+		"entry": {
+			"id": 1049,
+			"form": "lutima"
+		}
+	},
+	"1050": {
+		"entry": {
+			"id": 1050,
+			"form": "putimi"
+		}
+	},
+	"1051": {
+		"entry": {
+			"id": 1051,
+			"form": "tutimu"
+		}
+	},
+	"1052": {
+		"entry": {
+			"id": 1052,
+			"form": "kutina"
+		}
+	},
+	"1053": {
+		"entry": {
+			"id": 1053,
+			"form": "sutini"
+		}
+	},
+	"1054": {
+		"entry": {
+			"id": 1054,
+			"form": "mutinu"
+		}
+	},
+	"1055": {
+		"entry": {
+			"id": 1055,
+			"form": "nutila"
+		}
+	},
+	"1056": {
+		"entry": {
+			"id": 1056,
+			"form": "lutili"
+		}
+	},
+	"1057": {
+		"entry": {
+			"id": 1057,
+			"form": "putilu"
+		}
+	},
+	"1058": {
+		"entry": {
+			"id": 1058,
+			"form": "tutupa"
+		}
+	},
+	"1059": {
+		"entry": {
+			"id": 1059,
+			"form": "kutupi"
+		}
+	},
+	"1060": {
+		"entry": {
+			"id": 1060,
+			"form": "sutupu"
+		}
+	},
+	"1061": {
+		"entry": {
+			"id": 1061,
+			"form": "mututa"
+		}
+	},
+	"1062": {
+		"entry": {
+			"id": 1062,
+			"form": "nututi"
+		}
+	},
+	"1063": {
+		"entry": {
+			"id": 1063,
+			"form": "lututu"
+		}
+	},
+	"1064": {
+		"entry": {
+			"id": 1064,
+			"form": "putuka"
+		}
+	},
+	"1065": {
+		"entry": {
+			"id": 1065,
+			"form": "tutuki"
+		}
+	},
+	"1066": {
+		"entry": {
+			"id": 1066,
+			"form": "kutuku"
+		}
+	},
+	"1067": {
+		"entry": {
+			"id": 1067,
+			"form": "sutusa"
+		}
+	},
+	"1068": {
+		"entry": {
+			"id": 1068,
+			"form": "mutusi"
+		}
+	},
+	"1069": {
+		"entry": {
+			"id": 1069,
+			"form": "nutusu"
+		}
+	},
+	"1070": {
+		"entry": {
+			"id": 1070,
+			"form": "lutuma"
+		}
+	},
+	"1071": {
+		"entry": {
+			"id": 1071,
+			"form": "putumi"
+		}
+	},
+	"1072": {
+		"entry": {
+			"id": 1072,
+			"form": "tutumu"
+		}
+	},
+	"1073": {
+		"entry": {
+			"id": 1073,
+			"form": "kutuna"
+		}
+	},
+	"1074": {
+		"entry": {
+			"id": 1074,
+			"form": "sutuni"
+		}
+	},
+	"1075": {
+		"entry": {
+			"id": 1075,
+			"form": "mutunu"
+		}
+	},
+	"1076": {
+		"entry": {
+			"id": 1076,
+			"form": "nutula"
+		}
+	},
+	"1077": {
+		"entry": {
+			"id": 1077,
+			"form": "lutuli"
+		}
+	},
+	"1078": {
+		"entry": {
+			"id": 1078,
+			"form": "putulu"
+		}
+	},
+	"1079": {
+		"entry": {
+			"id": 1079,
+			"form": "tukapa"
+		}
+	},
+	"1080": {
+		"entry": {
+			"id": 1080,
+			"form": "kukapi"
+		}
+	},
+	"1081": {
+		"entry": {
+			"id": 1081,
+			"form": "sukapu"
+		}
+	},
+	"1082": {
+		"entry": {
+			"id": 1082,
+			"form": "mukata"
+		}
+	},
+	"1083": {
+		"entry": {
+			"id": 1083,
+			"form": "nukati"
+		}
+	},
+	"1084": {
+		"entry": {
+			"id": 1084,
+			"form": "lukatu"
+		}
+	},
+	"1085": {
+		"entry": {
+			"id": 1085,
+			"form": "pukaka"
+		}
+	},
+	"1086": {
+		"entry": {
+			"id": 1086,
+			"form": "tukaki"
+		}
+	},
+	"1087": {
+		"entry": {
+			"id": 1087,
+			"form": "kukaku"
+		}
+	},
+	"1088": {
+		"entry": {
+			"id": 1088,
+			"form": "sukasa"
+		}
+	},
+	"1089": {
+		"entry": {
+			"id": 1089,
+			"form": "mukasi"
+		}
+	},
+	"1090": {
+		"entry": {
+			"id": 1090,
+			"form": "nukasu"
+		}
+	},
+	"1091": {
+		"entry": {
+			"id": 1091,
+			"form": "lukama"
+		}
+	},
+	"1092": {
+		"entry": {
+			"id": 1092,
+			"form": "pukami"
+		}
+	},
+	"1093": {
+		"entry": {
+			"id": 1093,
+			"form": "tukamu"
+		}
+	},
+	"1094": {
+		"entry": {
+			"id": 1094,
+			"form": "kukana"
+		}
+	},
+	"1095": {
+		"entry": {
+			"id": 1095,
+			"form": "sukani"
+		}
+	},
+	"1096": {
+		"entry": {
+			"id": 1096,
+			"form": "mukanu"
+		}
+	},
+	"1097": {
+		"entry": {
+			"id": 1097,
+			"form": "nukala"
+		}
+	},
+	"1098": {
+		"entry": {
+			"id": 1098,
+			"form": "lukali"
+		}
+	},
+	"1099": {
+		"entry": {
+			"id": 1099,
+			"form": "pukalu"
+		}
+	},
+	"1100": {
+		"entry": {
+			"id": 1100,
+			"form": "tukipa"
+		}
+	},
+	"1101": {
+		"entry": {
+			"id": 1101,
+			"form": "kukipi"
+		}
+	},
+	"1102": {
+		"entry": {
+			"id": 1102,
+			"form": "sukipu"
+		}
+	},
+	"1103": {
+		"entry": {
+			"id": 1103,
+			"form": "mukita"
+		}
+	},
+	"1104": {
+		"entry": {
+			"id": 1104,
+			"form": "nukiti"
+		}
+	},
+	"1105": {
+		"entry": {
+			"id": 1105,
+			"form": "lukitu"
+		}
+	},
+	"1106": {
+		"entry": {
+			"id": 1106,
+			"form": "pukika"
+		}
+	},
+	"1107": {
+		"entry": {
+			"id": 1107,
+			"form": "tukiki"
+		}
+	},
+	"1108": {
+		"entry": {
+			"id": 1108,
+			"form": "kukiku"
+		}
+	},
+	"1109": {
+		"entry": {
+			"id": 1109,
+			"form": "sukisa"
+		}
+	},
+	"1110": {
+		"entry": {
+			"id": 1110,
+			"form": "mukisi"
+		}
+	},
+	"1111": {
+		"entry": {
+			"id": 1111,
+			"form": "nukisu"
+		}
+	},
+	"1112": {
+		"entry": {
+			"id": 1112,
+			"form": "lukima"
+		}
+	},
+	"1113": {
+		"entry": {
+			"id": 1113,
+			"form": "pukimi"
+		}
+	},
+	"1114": {
+		"entry": {
+			"id": 1114,
+			"form": "tukimu"
+		}
+	},
+	"1115": {
+		"entry": {
+			"id": 1115,
+			"form": "kukina"
+		}
+	},
+	"1116": {
+		"entry": {
+			"id": 1116,
+			"form": "sukini"
+		}
+	},
+	"1117": {
+		"entry": {
+			"id": 1117,
+			"form": "mukinu"
+		}
+	},
+	"1118": {
+		"entry": {
+			"id": 1118,
+			"form": "nukila"
+		}
+	},
+	"1119": {
+		"entry": {
+			"id": 1119,
+			"form": "lukili"
+		}
+	},
+	"1120": {
+		"entry": {
+			"id": 1120,
+			"form": "pukilu"
+		}
+	},
+	"1121": {
+		"entry": {
+			"id": 1121,
+			"form": "tukupa"
+		}
+	},
+	"1122": {
+		"entry": {
+			"id": 1122,
+			"form": "kukupi"
+		}
+	},
+	"1123": {
+		"entry": {
+			"id": 1123,
+			"form": "sukupu"
+		}
+	},
+	"1124": {
+		"entry": {
+			"id": 1124,
+			"form": "mukuta"
+		}
+	},
+	"1125": {
+		"entry": {
+			"id": 1125,
+			"form": "nukuti"
+		}
+	},
+	"1126": {
+		"entry": {
+			"id": 1126,
+			"form": "lukutu"
+		}
+	},
+	"1127": {
+		"entry": {
+			"id": 1127,
+			"form": "pukuka"
+		}
+	},
+	"1128": {
+		"entry": {
+			"id": 1128,
+			"form": "tukuki"
+		}
+	},
+	"1129": {
+		"entry": {
+			"id": 1129,
+			"form": "kukuku"
+		}
+	},
+	"1130": {
+		"entry": {
+			"id": 1130,
+			"form": "sukusa"
+		}
+	},
+	"1131": {
+		"entry": {
+			"id": 1131,
+			"form": "mukusi"
+		}
+	},
+	"1132": {
+		"entry": {
+			"id": 1132,
+			"form": "nukusu"
+		}
+	},
+	"1133": {
+		"entry": {
+			"id": 1133,
+			"form": "lukuma"
+		}
+	},
+	"1134": {
+		"entry": {
+			"id": 1134,
+			"form": "pukumi"
+		}
+	},
+	"1135": {
+		"entry": {
+			"id": 1135,
+			"form": "tukumu"
+		}
+	},
+	"1136": {
+		"entry": {
+			"id": 1136,
+			"form": "kukuna"
+		}
+	},
+	"1137": {
+		"entry": {
+			"id": 1137,
+			"form": "sukuni"
+		}
+	},
+	"1138": {
+		"entry": {
+			"id": 1138,
+			"form": "mukunu"
+		}
+	},
+	"1139": {
+		"entry": {
+			"id": 1139,
+			"form": "nukula"
+		}
+	},
+	"1140": {
+		"entry": {
+			"id": 1140,
+			"form": "lukuli"
+		}
+	},
+	"1141": {
+		"entry": {
+			"id": 1141,
+			"form": "pukulu"
+		}
+	},
+	"1142": {
+		"entry": {
+			"id": 1142,
+			"form": "tusapa"
+		}
+	},
+	"1143": {
+		"entry": {
+			"id": 1143,
+			"form": "kusapi"
+		}
+	},
+	"1144": {
+		"entry": {
+			"id": 1144,
+			"form": "susapu"
+		}
+	},
+	"1145": {
+		"entry": {
+			"id": 1145,
+			"form": "musata"
+		}
+	},
+	"1146": {
+		"entry": {
+			"id": 1146,
+			"form": "nusati"
+		}
+	},
+	"1147": {
+		"entry": {
+			"id": 1147,
+			"form": "lusatu"
+		}
+	},
+	"1148": {
+		"entry": {
+			"id": 1148,
+			"form": "pusaka"
+		}
+	},
+	"1149": {
+		"entry": {
+			"id": 1149,
+			"form": "tusaki"
+		}
+	},
+	"1150": {
+		"entry": {
+			"id": 1150,
+			"form": "kusaku"
+		}
+	},
+	"1151": {
+		"entry": {
+			"id": 1151,
+			"form": "susasa"
+		}
+	},
+	"1152": {
+		"entry": {
+			"id": 1152,
+			"form": "musasi"
+		}
+	},
+	"1153": {
+		"entry": {
+			"id": 1153,
+			"form": "nusasu"
+		}
+	},
+	"1154": {
+		"entry": {
+			"id": 1154,
+			"form": "lusama"
+		}
+	},
+	"1155": {
+		"entry": {
+			"id": 1155,
+			"form": "pusami"
+		}
+	},
+	"1156": {
+		"entry": {
+			"id": 1156,
+			"form": "tusamu"
+		}
+	},
+	"1157": {
+		"entry": {
+			"id": 1157,
+			"form": "kusana"
+		}
+	},
+	"1158": {
+		"entry": {
+			"id": 1158,
+			"form": "susani"
+		}
+	},
+	"1159": {
+		"entry": {
+			"id": 1159,
+			"form": "musanu"
+		}
+	},
+	"1160": {
+		"entry": {
+			"id": 1160,
+			"form": "nusala"
+		}
+	},
+	"1161": {
+		"entry": {
+			"id": 1161,
+			"form": "lusali"
+		}
+	},
+	"1162": {
+		"entry": {
+			"id": 1162,
+			"form": "pusalu"
+		}
+	},
+	"1163": {
+		"entry": {
+			"id": 1163,
+			"form": "tusipa"
+		}
+	},
+	"1164": {
+		"entry": {
+			"id": 1164,
+			"form": "kusipi"
+		}
+	},
+	"1165": {
+		"entry": {
+			"id": 1165,
+			"form": "susipu"
+		}
+	},
+	"1166": {
+		"entry": {
+			"id": 1166,
+			"form": "musita"
+		}
+	},
+	"1167": {
+		"entry": {
+			"id": 1167,
+			"form": "nusiti"
+		}
+	},
+	"1168": {
+		"entry": {
+			"id": 1168,
+			"form": "lusitu"
+		}
+	},
+	"1169": {
+		"entry": {
+			"id": 1169,
+			"form": "pusika"
+		}
+	},
+	"1170": {
+		"entry": {
+			"id": 1170,
+			"form": "tusiki"
+		}
+	},
+	"1171": {
+		"entry": {
+			"id": 1171,
+			"form": "kusiku"
+		}
+	},
+	"1172": {
+		"entry": {
+			"id": 1172,
+			"form": "susisa"
+		}
+	},
+	"1173": {
+		"entry": {
+			"id": 1173,
+			"form": "musisi"
+		}
+	},
+	"1174": {
+		"entry": {
+			"id": 1174,
+			"form": "nusisu"
+		}
+	},
+	"1175": {
+		"entry": {
+			"id": 1175,
+			"form": "lusima"
+		}
+	},
+	"1176": {
+		"entry": {
+			"id": 1176,
+			"form": "pusimi"
+		}
+	},
+	"1177": {
+		"entry": {
+			"id": 1177,
+			"form": "tusimu"
+		}
+	},
+	"1178": {
+		"entry": {
+			"id": 1178,
+			"form": "kusina"
+		}
+	},
+	"1179": {
+		"entry": {
+			"id": 1179,
+			"form": "susini"
+		}
+	},
+	"1180": {
+		"entry": {
+			"id": 1180,
+			"form": "musinu"
+		}
+	},
+	"1181": {
+		"entry": {
+			"id": 1181,
+			"form": "nusila"
+		}
+	},
+	"1182": {
+		"entry": {
+			"id": 1182,
+			"form": "lusili"
+		}
+	},
+	"1183": {
+		"entry": {
+			"id": 1183,
+			"form": "pusilu"
+		}
+	},
+	"1184": {
+		"entry": {
+			"id": 1184,
+			"form": "tusupa"
+		}
+	},
+	"1185": {
+		"entry": {
+			"id": 1185,
+			"form": "kusupi"
+		}
+	},
+	"1186": {
+		"entry": {
+			"id": 1186,
+			"form": "susupu"
+		}
+	},
+	"1187": {
+		"entry": {
+			"id": 1187,
+			"form": "musuta"
+		}
+	},
+	"1188": {
+		"entry": {
+			"id": 1188,
+			"form": "nusuti"
+		}
+	},
+	"1189": {
+		"entry": {
+			"id": 1189,
+			"form": "lusutu"
+		}
+	},
+	"1190": {
+		"entry": {
+			"id": 1190,
+			"form": "pusuka"
+		}
+	},
+	"1191": {
+		"entry": {
+			"id": 1191,
+			"form": "tusuki"
+		}
+	},
+	"1192": {
+		"entry": {
+			"id": 1192,
+			"form": "kusuku"
+		}
+	},
+	"1193": {
+		"entry": {
+			"id": 1193,
+			"form": "sususa"
+		}
+	},
+	"1194": {
+		"entry": {
+			"id": 1194,
+			"form": "mususi"
+		}
+	},
+	"1195": {
+		"entry": {
+			"id": 1195,
+			"form": "nususu"
+		}
+	},
+	"1196": {
+		"entry": {
+			"id": 1196,
+			"form": "lusuma"
+		}
+	},
+	"1197": {
+		"entry": {
+			"id": 1197,
+			"form": "pusumi"
+		}
+	},
+	"1198": {
+		"entry": {
+			"id": 1198,
+			"form": "tusumu"
+		}
+	},
+	"1199": {
+		"entry": {
+			"id": 1199,
+			"form": "kusuna"
+		}
+	},
+	"1200": {
+		"entry": {
+			"id": 1200,
+			"form": "susuni"
+		}
+	},
+	"1201": {
+		"entry": {
+			"id": 1201,
+			"form": "musunu"
+		}
+	},
+	"1202": {
+		"entry": {
+			"id": 1202,
+			"form": "nusula"
+		}
+	},
+	"1203": {
+		"entry": {
+			"id": 1203,
+			"form": "lusuli"
+		}
+	},
+	"1204": {
+		"entry": {
+			"id": 1204,
+			"form": "pusulu"
+		}
+	},
+	"1205": {
+		"entry": {
+			"id": 1205,
+			"form": "tumapa"
+		}
+	},
+	"1206": {
+		"entry": {
+			"id": 1206,
+			"form": "kumapi"
+		}
+	},
+	"1207": {
+		"entry": {
+			"id": 1207,
+			"form": "sumapu"
+		}
+	},
+	"1208": {
+		"entry": {
+			"id": 1208,
+			"form": "mumata"
+		}
+	},
+	"1209": {
+		"entry": {
+			"id": 1209,
+			"form": "numati"
+		}
+	},
+	"1210": {
+		"entry": {
+			"id": 1210,
+			"form": "lumatu"
+		}
+	},
+	"1211": {
+		"entry": {
+			"id": 1211,
+			"form": "pumaka"
+		}
+	},
+	"1212": {
+		"entry": {
+			"id": 1212,
+			"form": "tumaki"
+		}
+	},
+	"1213": {
+		"entry": {
+			"id": 1213,
+			"form": "kumaku"
+		}
+	},
+	"1214": {
+		"entry": {
+			"id": 1214,
+			"form": "sumasa"
+		}
+	},
+	"1215": {
+		"entry": {
+			"id": 1215,
+			"form": "mumasi"
+		}
+	},
+	"1216": {
+		"entry": {
+			"id": 1216,
+			"form": "numasu"
+		}
+	},
+	"1217": {
+		"entry": {
+			"id": 1217,
+			"form": "lumama"
+		}
+	},
+	"1218": {
+		"entry": {
+			"id": 1218,
+			"form": "pumami"
+		}
+	},
+	"1219": {
+		"entry": {
+			"id": 1219,
+			"form": "tumamu"
+		}
+	},
+	"1220": {
+		"entry": {
+			"id": 1220,
+			"form": "kumana"
+		}
+	},
+	"1221": {
+		"entry": {
+			"id": 1221,
+			"form": "sumani"
+		}
+	},
+	"1222": {
+		"entry": {
+			"id": 1222,
+			"form": "mumanu"
+		}
+	},
+	"1223": {
+		"entry": {
+			"id": 1223,
+			"form": "numala"
+		}
+	},
+	"1224": {
+		"entry": {
+			"id": 1224,
+			"form": "lumali"
+		}
+	},
+	"1225": {
+		"entry": {
+			"id": 1225,
+			"form": "pumalu"
+		}
+	},
+	"1226": {
+		"entry": {
+			"id": 1226,
+			"form": "tumipa"
+		}
+	},
+	"1227": {
+		"entry": {
+			"id": 1227,
+			"form": "kumipi"
+		}
+	},
+	"1228": {
+		"entry": {
+			"id": 1228,
+			"form": "sumipu"
+		}
+	},
+	"1229": {
+		"entry": {
+			"id": 1229,
+			"form": "mumita"
+		}
+	},
+	"1230": {
+		"entry": {
+			"id": 1230,
+			"form": "numiti"
+		}
+	},
+	"1231": {
+		"entry": {
+			"id": 1231,
+			"form": "lumitu"
+		}
+	},
+	"1232": {
+		"entry": {
+			"id": 1232,
+			"form": "pumika"
+		}
+	},
+	"1233": {
+		"entry": {
+			"id": 1233,
+			"form": "tumiki"
+		}
+	},
+	"1234": {
+		"entry": {
+			"id": 1234,
+			"form": "kumiku"
+		}
+	},
+	"1235": {
+		"entry": {
+			"id": 1235,
+			"form": "sumisa"
+		}
+	},
+	"1236": {
+		"entry": {
+			"id": 1236,
+			"form": "mumisi"
+		}
+	},
+	"1237": {
+		"entry": {
+			"id": 1237,
+			"form": "numisu"
+		}
+	},
+	"1238": {
+		"entry": {
+			"id": 1238,
+			"form": "lumima"
+		}
+	},
+	"1239": {
+		"entry": {
+			"id": 1239,
+			"form": "pumimi"
+		}
+	},
+	"1240": {
+		"entry": {
+			"id": 1240,
+			"form": "tumimu"
+		}
+	},
+	"1241": {
+		"entry": {
+			"id": 1241,
+			"form": "kumina"
+		}
+	},
+	"1242": {
+		"entry": {
+			"id": 1242,
+			"form": "sumini"
+		}
+	},
+	"1243": {
+		"entry": {
+			"id": 1243,
+			"form": "muminu"
+		}
+	},
+	"1244": {
+		"entry": {
+			"id": 1244,
+			"form": "numila"
+		}
+	},
+	"1245": {
+		"entry": {
+			"id": 1245,
+			"form": "lumili"
+		}
+	},
+	"1246": {
+		"entry": {
+			"id": 1246,
+			"form": "pumilu"
+		}
+	},
+	"1247": {
+		"entry": {
+			"id": 1247,
+			"form": "tumupa"
+		}
+	},
+	"1248": {
+		"entry": {
+			"id": 1248,
+			"form": "kumupi"
+		}
+	},
+	"1249": {
+		"entry": {
+			"id": 1249,
+			"form": "sumupu"
+		}
+	},
+	"1250": {
+		"entry": {
+			"id": 1250,
+			"form": "mumuta"
+		}
+	},
+	"1251": {
+		"entry": {
+			"id": 1251,
+			"form": "numuti"
+		}
+	},
+	"1252": {
+		"entry": {
+			"id": 1252,
+			"form": "lumutu"
+		}
+	},
+	"1253": {
+		"entry": {
+			"id": 1253,
+			"form": "pumuka"
+		}
+	},
+	"1254": {
+		"entry": {
+			"id": 1254,
+			"form": "tumuki"
+		}
+	},
+	"1255": {
+		"entry": {
+			"id": 1255,
+			"form": "kumuku"
+		}
+	},
+	"1256": {
+		"entry": {
+			"id": 1256,
+			"form": "sumusa"
+		}
+	},
+	"1257": {
+		"entry": {
+			"id": 1257,
+			"form": "mumusi"
+		}
+	},
+	"1258": {
+		"entry": {
+			"id": 1258,
+			"form": "numusu"
+		}
+	},
+	"1259": {
+		"entry": {
+			"id": 1259,
+			"form": "lumuma"
+		}
+	},
+	"1260": {
+		"entry": {
+			"id": 1260,
+			"form": "pumumi"
+		}
+	},
+	"1261": {
+		"entry": {
+			"id": 1261,
+			"form": "tumumu"
+		}
+	},
+	"1262": {
+		"entry": {
+			"id": 1262,
+			"form": "kumuna"
+		}
+	},
+	"1263": {
+		"entry": {
+			"id": 1263,
+			"form": "sumuni"
+		}
+	},
+	"1264": {
+		"entry": {
+			"id": 1264,
+			"form": "mumunu"
+		}
+	},
+	"1265": {
+		"entry": {
+			"id": 1265,
+			"form": "numula"
+		}
+	},
+	"1266": {
+		"entry": {
+			"id": 1266,
+			"form": "lumuli"
+		}
+	},
+	"1267": {
+		"entry": {
+			"id": 1267,
+			"form": "pumulu"
+		}
+	},
+	"1268": {
+		"entry": {
+			"id": 1268,
+			"form": "tunapa"
+		}
+	},
+	"1269": {
+		"entry": {
+			"id": 1269,
+			"form": "kunapi"
+		}
+	},
+	"1270": {
+		"entry": {
+			"id": 1270,
+			"form": "sunapu"
+		}
+	},
+	"1271": {
+		"entry": {
+			"id": 1271,
+			"form": "munata"
+		}
+	},
+	"1272": {
+		"entry": {
+			"id": 1272,
+			"form": "nunati"
+		}
+	},
+	"1273": {
+		"entry": {
+			"id": 1273,
+			"form": "lunatu"
+		}
+	},
+	"1274": {
+		"entry": {
+			"id": 1274,
+			"form": "punaka"
+		}
+	},
+	"1275": {
+		"entry": {
+			"id": 1275,
+			"form": "tunaki"
+		}
+	},
+	"1276": {
+		"entry": {
+			"id": 1276,
+			"form": "kunaku"
+		}
+	},
+	"1277": {
+		"entry": {
+			"id": 1277,
+			"form": "sunasa"
+		}
+	},
+	"1278": {
+		"entry": {
+			"id": 1278,
+			"form": "munasi"
+		}
+	},
+	"1279": {
+		"entry": {
+			"id": 1279,
+			"form": "nunasu"
+		}
+	},
+	"1280": {
+		"entry": {
+			"id": 1280,
+			"form": "lunama"
+		}
+	},
+	"1281": {
+		"entry": {
+			"id": 1281,
+			"form": "punami"
+		}
+	},
+	"1282": {
+		"entry": {
+			"id": 1282,
+			"form": "tunamu"
+		}
+	},
+	"1283": {
+		"entry": {
+			"id": 1283,
+			"form": "kunana"
+		}
+	},
+	"1284": {
+		"entry": {
+			"id": 1284,
+			"form": "sunani"
+		}
+	},
+	"1285": {
+		"entry": {
+			"id": 1285,
+			"form": "munanu"
+		}
+	},
+	"1286": {
+		"entry": {
+			"id": 1286,
+			"form": "nunala"
+		}
+	},
+	"1287": {
+		"entry": {
+			"id": 1287,
+			"form": "lunali"
+		}
+	},
+	"1288": {
+		"entry": {
+			"id": 1288,
+			"form": "punalu"
+		}
+	},
+	"1289": {
+		"entry": {
+			"id": 1289,
+			"form": "tunipa"
+		}
+	},
+	"1290": {
+		"entry": {
+			"id": 1290,
+			"form": "kunipi"
+		}
+	},
+	"1291": {
+		"entry": {
+			"id": 1291,
+			"form": "sunipu"
+		}
+	},
+	"1292": {
+		"entry": {
+			"id": 1292,
+			"form": "munita"
+		}
+	},
+	"1293": {
+		"entry": {
+			"id": 1293,
+			"form": "nuniti"
+		}
+	},
+	"1294": {
+		"entry": {
+			"id": 1294,
+			"form": "lunitu"
+		}
+	},
+	"1295": {
+		"entry": {
+			"id": 1295,
+			"form": "punika"
+		}
+	},
+	"1296": {
+		"entry": {
+			"id": 1296,
+			"form": "tuniki"
+		}
+	},
+	"1297": {
+		"entry": {
+			"id": 1297,
+			"form": "kuniku"
+		}
+	},
+	"1298": {
+		"entry": {
+			"id": 1298,
+			"form": "sunisa"
+		}
+	},
+	"1299": {
+		"entry": {
+			"id": 1299,
+			"form": "munisi"
+		}
+	},
+	"1300": {
+		"entry": {
+			"id": 1300,
+			"form": "nunisu"
+		}
+	},
+	"1301": {
+		"entry": {
+			"id": 1301,
+			"form": "lunima"
+		}
+	},
+	"1302": {
+		"entry": {
+			"id": 1302,
+			"form": "punimi"
+		}
+	},
+	"1303": {
+		"entry": {
+			"id": 1303,
+			"form": "tunimu"
+		}
+	},
+	"1304": {
+		"entry": {
+			"id": 1304,
+			"form": "kunina"
+		}
+	},
+	"1305": {
+		"entry": {
+			"id": 1305,
+			"form": "sunini"
+		}
+	},
+	"1306": {
+		"entry": {
+			"id": 1306,
+			"form": "muninu"
+		}
+	},
+	"1307": {
+		"entry": {
+			"id": 1307,
+			"form": "nunila"
+		}
+	},
+	"1308": {
+		"entry": {
+			"id": 1308,
+			"form": "lunili"
+		}
+	},
+	"1309": {
+		"entry": {
+			"id": 1309,
+			"form": "punilu"
+		}
+	},
+	"1310": {
+		"entry": {
+			"id": 1310,
+			"form": "tunupa"
+		}
+	},
+	"1311": {
+		"entry": {
+			"id": 1311,
+			"form": "kunupi"
+		}
+	},
+	"1312": {
+		"entry": {
+			"id": 1312,
+			"form": "sunupu"
+		}
+	},
+	"1313": {
+		"entry": {
+			"id": 1313,
+			"form": "munuta"
+		}
+	},
+	"1314": {
+		"entry": {
+			"id": 1314,
+			"form": "nunuti"
+		}
+	},
+	"1315": {
+		"entry": {
+			"id": 1315,
+			"form": "lunutu"
+		}
+	},
+	"1316": {
+		"entry": {
+			"id": 1316,
+			"form": "punuka"
+		}
+	},
+	"1317": {
+		"entry": {
+			"id": 1317,
+			"form": "tunuki"
+		}
+	},
+	"1318": {
+		"entry": {
+			"id": 1318,
+			"form": "kunuku"
+		}
+	},
+	"1319": {
+		"entry": {
+			"id": 1319,
+			"form": "sunusa"
+		}
+	},
+	"1320": {
+		"entry": {
+			"id": 1320,
+			"form": "munusi"
+		}
+	},
+	"1321": {
+		"entry": {
+			"id": 1321,
+			"form": "nunusu"
+		}
+	},
+	"1322": {
+		"entry": {
+			"id": 1322,
+			"form": "lunuma"
+		}
+	},
+	"1323": {
+		"entry": {
+			"id": 1323,
+			"form": "punumi"
+		}
+	},
+	"1324": {
+		"entry": {
+			"id": 1324,
+			"form": "tunumu"
+		}
+	},
+	"1325": {
+		"entry": {
+			"id": 1325,
+			"form": "kununa"
+		}
+	},
+	"1326": {
+		"entry": {
+			"id": 1326,
+			"form": "sununi"
+		}
+	},
+	"1327": {
+		"entry": {
+			"id": 1327,
+			"form": "mununu"
+		}
+	},
+	"1328": {
+		"entry": {
+			"id": 1328,
+			"form": "nunula"
+		}
+	},
+	"1329": {
+		"entry": {
+			"id": 1329,
+			"form": "lunuli"
+		}
+	},
+	"1330": {
+		"entry": {
+			"id": 1330,
+			"form": "punulu"
+		}
+	},
+	"1331": {
+		"entry": {
+			"id": 1331,
+			"form": "tulapa"
+		}
+	},
+	"1332": {
+		"entry": {
+			"id": 1332,
+			"form": "kulapi"
+		}
+	},
+	"1333": {
+		"entry": {
+			"id": 1333,
+			"form": "sulapu"
+		}
+	},
+	"1334": {
+		"entry": {
+			"id": 1334,
+			"form": "mulata"
+		}
+	},
+	"1335": {
+		"entry": {
+			"id": 1335,
+			"form": "nulati"
+		}
+	},
+	"1336": {
+		"entry": {
+			"id": 1336,
+			"form": "lulatu"
+		}
+	},
+	"1337": {
+		"entry": {
+			"id": 1337,
+			"form": "pulaka"
+		}
+	},
+	"1338": {
+		"entry": {
+			"id": 1338,
+			"form": "tulaki"
+		}
+	},
+	"1339": {
+		"entry": {
+			"id": 1339,
+			"form": "kulaku"
+		}
+	},
+	"1340": {
+		"entry": {
+			"id": 1340,
+			"form": "sulasa"
+		}
+	},
+	"1341": {
+		"entry": {
+			"id": 1341,
+			"form": "mulasi"
+		}
+	},
+	"1342": {
+		"entry": {
+			"id": 1342,
+			"form": "nulasu"
+		}
+	},
+	"1343": {
+		"entry": {
+			"id": 1343,
+			"form": "lulama"
+		}
+	},
+	"1344": {
+		"entry": {
+			"id": 1344,
+			"form": "pulami"
+		}
+	},
+	"1345": {
+		"entry": {
+			"id": 1345,
+			"form": "tulamu"
+		}
+	},
+	"1346": {
+		"entry": {
+			"id": 1346,
+			"form": "kulana"
+		}
+	},
+	"1347": {
+		"entry": {
+			"id": 1347,
+			"form": "sulani"
+		}
+	},
+	"1348": {
+		"entry": {
+			"id": 1348,
+			"form": "mulanu"
+		}
+	},
+	"1349": {
+		"entry": {
+			"id": 1349,
+			"form": "nulala"
+		}
+	},
+	"1350": {
+		"entry": {
+			"id": 1350,
+			"form": "lulali"
+		}
+	},
+	"1351": {
+		"entry": {
+			"id": 1351,
+			"form": "pulalu"
+		}
+	},
+	"1352": {
+		"entry": {
+			"id": 1352,
+			"form": "tulipa"
+		}
+	},
+	"1353": {
+		"entry": {
+			"id": 1353,
+			"form": "kulipi"
+		}
+	},
+	"1354": {
+		"entry": {
+			"id": 1354,
+			"form": "sulipu"
+		}
+	},
+	"1355": {
+		"entry": {
+			"id": 1355,
+			"form": "mulita"
+		}
+	},
+	"1356": {
+		"entry": {
+			"id": 1356,
+			"form": "nuliti"
+		}
+	},
+	"1357": {
+		"entry": {
+			"id": 1357,
+			"form": "lulitu"
+		}
+	},
+	"1358": {
+		"entry": {
+			"id": 1358,
+			"form": "pulika"
+		}
+	},
+	"1359": {
+		"entry": {
+			"id": 1359,
+			"form": "tuliki"
+		}
+	},
+	"1360": {
+		"entry": {
+			"id": 1360,
+			"form": "kuliku"
+		}
+	},
+	"1361": {
+		"entry": {
+			"id": 1361,
+			"form": "sulisa"
+		}
+	},
+	"1362": {
+		"entry": {
+			"id": 1362,
+			"form": "mulisi"
+		}
+	},
+	"1363": {
+		"entry": {
+			"id": 1363,
+			"form": "nulisu"
+		}
+	},
+	"1364": {
+		"entry": {
+			"id": 1364,
+			"form": "lulima"
+		}
+	},
+	"1365": {
+		"entry": {
+			"id": 1365,
+			"form": "pulimi"
+		}
+	},
+	"1366": {
+		"entry": {
+			"id": 1366,
+			"form": "tulimu"
+		}
+	},
+	"1367": {
+		"entry": {
+			"id": 1367,
+			"form": "kulina"
+		}
+	},
+	"1368": {
+		"entry": {
+			"id": 1368,
+			"form": "sulini"
+		}
+	},
+	"1369": {
+		"entry": {
+			"id": 1369,
+			"form": "mulinu"
+		}
+	},
+	"1370": {
+		"entry": {
+			"id": 1370,
+			"form": "nulila"
+		}
+	},
+	"1371": {
+		"entry": {
+			"id": 1371,
+			"form": "lulili"
+		}
+	},
+	"1372": {
+		"entry": {
+			"id": 1372,
+			"form": "pulilu"
+		}
+	},
+	"1373": {
+		"entry": {
+			"id": 1373,
+			"form": "tulupa"
+		}
+	},
+	"1374": {
+		"entry": {
+			"id": 1374,
+			"form": "kulupi"
+		}
+	},
+	"1375": {
+		"entry": {
+			"id": 1375,
+			"form": "sulupu"
+		}
+	},
+	"1376": {
+		"entry": {
+			"id": 1376,
+			"form": "muluta"
+		}
+	},
+	"1377": {
+		"entry": {
+			"id": 1377,
+			"form": "nuluti"
+		}
+	},
+	"1378": {
+		"entry": {
+			"id": 1378,
+			"form": "lulutu"
+		}
+	},
+	"1379": {
+		"entry": {
+			"id": 1379,
+			"form": "puluka"
+		}
+	},
+	"1380": {
+		"entry": {
+			"id": 1380,
+			"form": "tuluki"
+		}
+	},
+	"1381": {
+		"entry": {
+			"id": 1381,
+			"form": "kuluku"
+		}
+	},
+	"1382": {
+		"entry": {
+			"id": 1382,
+			"form": "sulusa"
+		}
+	},
+	"1383": {
+		"entry": {
+			"id": 1383,
+			"form": "mulusi"
+		}
+	},
+	"1384": {
+		"entry": {
+			"id": 1384,
+			"form": "nulusu"
+		}
+	},
+	"1385": {
+		"entry": {
+			"id": 1385,
+			"form": "luluma"
+		}
+	},
+	"1386": {
+		"entry": {
+			"id": 1386,
+			"form": "pulumi"
+		}
+	},
+	"1387": {
+		"entry": {
+			"id": 1387,
+			"form": "tulumu"
+		}
+	},
+	"1388": {
+		"entry": {
+			"id": 1388,
+			"form": "kuluna"
+		}
+	},
+	"1389": {
+		"entry": {
+			"id": 1389,
+			"form": "suluni"
+		}
+	},
+	"1390": {
+		"entry": {
+			"id": 1390,
+			"form": "mulunu"
+		}
+	},
+	"1391": {
+		"entry": {
+			"id": 1391,
+			"form": "nulula"
+		}
+	},
+	"1392": {
+		"entry": {
+			"id": 1392,
+			"form": "lululi"
+		}
+	},
+	"1393": {
+		"entry": {
+			"id": 1393,
+			"form": "pululu"
+		}
+	}
+}
