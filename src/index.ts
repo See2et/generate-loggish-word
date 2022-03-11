@@ -4,7 +4,9 @@ import {
   generateLoggishWords,
   generateWords02,
   generateWordsOfASyllable,
-} from "./export";
+} from "./export/main";
+import { generateWords } from "./export/generate-words";
+import means from "../means.json";
 
 const phonemes = [
   ["a", "i", "u"],
@@ -16,6 +18,7 @@ const syllables = [
 ];
 const config = { phonemes, syllables };
 
-generateLoggishWords(loggish.vowels, loggish.conses, loggish);
+generateWords(loggish, "output", means);
+// generateLoggishWords(loggish.vowels, loggish.conses, loggish);
 // generateWords02(config);
 // generateWordsOfASyllable;
